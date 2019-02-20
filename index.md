@@ -2,51 +2,20 @@
 layout: default
 page_name: home
 permalink: /
+slider_cache: false
+slider:
+  slides:
+    - image: /assets/images/massage-services-2.jpg
+      slide_html: <h3>In-Home Massage Services</h3><p>Get a professional massage in the comfort of your own home.</p><p><a href="/in-home-massage" class="btn-u">Learn More</a></p>
+    - image: /assets/images/massage-services-3.jpg
+      slide_html: <h3>Table Massage Services</h3>
+    - image: /assets/images/massage-services-4.jpg
+      slide_html: <h3>Reflexology Therapy Services</h3>
 ---
 
-<!--=== Slider ===-->
-<!-- <div id="layerslider" class="push-down" style="width: 100%; height: 550px;"> -->
-<div id="layerslider" class="" style="width: 100%; height: 650px;">
-  <noscript>
-    <div>
-      <img src="/assets/images/massage-services-2.jpg" class="ls-bg" alt="slide1" style="width: 100%; max-height: 42.5em;">
-      <!-- <img src="assets/images/slider1.jpg" class="ls-bg" alt="slide1"> -->
-    </div>
-  </noscript>
-  <!-- First slide -->
-  <div class="ls-slide" data-ls="slidedelay:3500">
-    <img src="/assets/images/massage-services-2.jpg" class="ls-bg" alt="slide1">
-    <!-- <img src="assets/images/slider1.jpg" class="ls-bg" alt="slide1"> -->
-  </div>
-  <!-- End First slide -->
-
-  <!-- Second Slide -->
-  <div class="ls-slide" data-ls="slidedelay:3500">
-    <img src="/assets/images/massage-services-3.jpg" class="ls-bg"  alt="Slide background"/>-->
-    <!-- <img src="assets/images/slider2.jpg" class="ls-bg"  alt="Slide background"/> -->
-  </div>-->
-  <!-- End Second Slide -->
-
-  <!-- Third Slide -->
-  <div class="ls-slide" data-ls="slidedelay:3500">
-    <img src="/assets/images/massage-services-4.jpg" class="ls-bg" alt="Slide background">
-    <!-- <img src="assets/images/slider3.jpg" class="ls-bg" alt="Slide background"> -->
-  </div>
-  <!-- End Third Slide -->
-
-  <!-- Fourth Slide -->
-  <!--<div class="ls-slide" data-ls="slidedelay:3500">
-    <img src="/assets/images/slider-waitingroom1.jpg" class="ls-bg" alt="Slide background">
-  </div> -->
-  <!-- End Fourth Slide -->
-
-  <!-- Fifth Slide -->
-  <!--<div class="ls-slide" data-ls="slidedelay:3500">
-    <img src="/assets/images/slider-iv.jpg" class="ls-bg" alt="Slide background">
-  </div>-->
-  <!-- End Fifth Slide -->
-</div><!--/layer_slider-->
-<!--=== End Slider ===-->
+{% if page.slider %}
+  {% include slider.html height="33" unit="%" transition="slide" duration="8" %}
+{% endif %}
 
 <!--=== Call to Action ===-->
 <div class="call-action-v1 bg-color-light">
@@ -73,10 +42,10 @@ permalink: /
 					<div class="overflow-hidden">
 						<img class="img-responsive" src="/assets/images/massage-services.jpeg" alt="In-Home Massage Services">
 					</div>
-					<a class="btn-more hover-effect" href="/service/in-home-massage">read more +</a>
+					<a class="btn-more hover-effect" href="/in-home-massage">read more +</a>
 				</div>
 				<div class="caption">
-					<h3><a class="hover-effect" href="#">In-Home Massage Therapy</a></h3>
+					<h3><a class="hover-effect" href="/in-home-massage">In-Home Massage Therapy</a></h3>
 					<p>Open Path Massage offers professional massage therapy services in the convenience of your own home. This allows you to feel comfortable during your session, and saves time for those with busy schedules.</p>
 				</div>
 			</div>
@@ -99,7 +68,7 @@ permalink: /
 			<div class="thumbnails thumbnail-style thumbnail-kenburn">
 				<div class="thumbnail-img">
 					<div class="overflow-hidden">
-						<img class="img-responsive" src="/assets/images/front-services-hair-loss.jpg" alt="Chair Massage Services">
+						<img class="img-responsive" src="/assets/images/chair-massage.jpg" alt="Chair Massage Services">
 					</div>
 					<a class="btn-more hover-effect" href="/chair-massage">read more +</a>
 				</div>
@@ -143,7 +112,7 @@ permalink: /
 			<div class="thumbnails thumbnail-style thumbnail-kenburn">
 				<div class="thumbnail-img">
 					<div class="overflow-hidden">
-						<img class="img-responsive" src="/assets/images/front-services-testing.jpg" alt="Cupping Therapy">
+						<img class="img-responsive" src="/assets/images/cupping-therapy.jpg" alt="Cupping Therapy">
 					</div>
 					<a class="btn-more hover-effect" href="/cupping-therapy">read more +</a>
 				</div>
@@ -198,84 +167,5 @@ permalink: /
       </div>
     </div>
   </div>
-  <!-- Facility --
-  <div class="owl-carousel-v1 owl-work-v1 margin-bottom-40">
-    <div class="headline"><h2 class="pull-left">Our Facility</h2>
-      <div class="owl-navigation">
-        <div class="customNavigation">
-          <a class="owl-btn prev-v2"><i class="fa fa-angle-left"></i></a>
-          <a class="owl-btn next-v2"><i class="fa fa-angle-right"></i></a>
-        </div>
-      </div><!--/navigation--
-    </div>
-
-    <div class="owl-recent-works-v1">
-      <div class="item">
-        <a href="#">
-          <em class="overflow-hidden">
-            <img class="img-responsive" src="assets/images/facility4.jpg" alt="">
-          </em>
-          <span>
-            <strong>Reception</strong>
-          </span>
-        </a>
-      </div>
-      <div class="item">
-        <a href="#">
-          <em class="overflow-hidden">
-            <img class="img-responsive" src="assets/images/facility2.jpg" alt="">
-          </em>
-          <span>
-            <strong>Consultation</strong>
-          </span>
-        </a>
-      </div>
-      <div class="item">
-        <a href="#">
-          <em class="overflow-hidden">
-            <img class="img-responsive" src="assets/images/facility1.jpg" alt="">
-          </em>
-          <span>
-            <strong>Exam</strong>
-          </span>
-        </a>
-      </div>
-      <div class="item">
-        <a href="#">
-          <em class="overflow-hidden">
-            <img class="img-responsive" src="assets/images/facility3.jpg" alt="">
-          </em>
-          <span>
-            <strong>Procedure</strong>
-          </span>
-        </a>
-      </div>
-      <div class="item">
-        <a href="#">
-          <em class="overflow-hidden">
-            <img class="img-responsive" src="assets/images/facility5.jpg" alt="">
-          </em>
-          <span>
-            <strong>Recovery</strong>
-          </span>
-        </a>
-      </div>
-      <div class="item">
-        <a href="#">
-          <em class="overflow-hidden">
-            <img class="img-responsive" src="assets/images/facility6.jpg" alt="">
-          </em>
-          <span>
-            <strong>Wellness</strong>
-          </span>
-        </a>
-      </div>
-    </div>
-  </div>
-  <!-- Facility --
-
-  <!-- Info Blokcs --
-  <div class="row margin-bottom-20"></div><!--/row-->
-  <!-- End Info Blokcs -->
 </div><!--/container-->
 <!-- End Content Part -->

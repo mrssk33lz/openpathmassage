@@ -105,6 +105,11 @@
 	line-height: 65px;
 }
 
+.header-v6 .navbar-brand a:hover,
+.header-v6 .navbar-brand a:focus {
+	text-decoration: none;
+}
+
 .header-v6 .navbar-brand img {
 	width: auto;
 	height: auto;
@@ -555,7 +560,7 @@
 	}
 
 	.header-v6 .navbar-nav > li > a {
-		padding: 20px;
+		padding: 2em .75em;
 		line-height: 54px;
 	}
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 page_name: in-home-massage
-permalink: /services/in-home-massage
+permalink: /in-home-massage
 ---
 
 <!--=== Breadcrumbs v3 ===-->
