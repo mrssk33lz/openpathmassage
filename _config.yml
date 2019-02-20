@@ -46,8 +46,8 @@ urlimg: 'https://sk33lz.github.io/themeroot/images/'
 logo: "logo.png"
 
 # Gems
-gems:
-    - jekyll-paginate
+#gems:
+#    - jekyll-paginate
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -70,7 +70,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENCE
+  - LICENSE
   - _unpublished
   - _site
 
