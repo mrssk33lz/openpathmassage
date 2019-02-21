@@ -6,15 +6,15 @@ slider_cache: false
 slider:
   slides:
     - image: /assets/images/massage-services-2.jpg
-      slide_html: <h3>In-Home Massage Services</h3><p>Get a professional massage in the comfort of your own home.</p><p><a href="/in-home-massage" class="btn-u">Learn More</a></p>
+      slide_html: <h3>In-Home Massage Services</h3><p>Get a professional table massage in the comfort of your own home.</p><p><a href="/in-home-massage" class="btn-u">Learn More</a></p>
     - image: /assets/images/reflexology-services.jpg
-      slide_html: <h3>Reflexology Therapy Services</h3>
+      slide_html: <h3>Reflexology Therapy Services</h3><p>Experience pain relief and relaxation from the ancient technique of Reflexology Therapy.</p><p><a href="/reflexology-therapy" class="btn-u">Learn More</a></p>
     - image: /assets/images/cupping-therapy.jpg
       slide_html: <h3>Cupping Therapy Services</h3>
     - image: /assets/images/massage-packages-2.jpg
-      slide_html: <h3>Massage Packages</h3>
+      slide_html: <h3>Massage Packages</h3><p>Treat your wallet to a massage! Purchase a massage package to lock in savings on massages good for 1 year.</p><p><a href="/massage-packages" class="btn-u">Learn More</a></p>
     - image: /assets/images/massage-parties.jpg
-      slide_html: <h3>Massage Parties</h3>
+      slide_html: <h3>Massage Parties</h3><p>Book a Massage Party for your next get together! I'll bring my massage chair and it's only a dollar per minute for anyone who wants to sit during the party.</p><p><a href="/massage-parties" class="btn-u">Learn More</a></p>
 ---
 
 {% if page.slider %}
