@@ -75,7 +75,7 @@ img.product-img{
   width: 100%;
 }
 
-@media (min-width: 992px){
+@media (max-width: 992px){
   #myCarousel {
     display: none;
     visibility: hidden;
