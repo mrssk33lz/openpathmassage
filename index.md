@@ -7,10 +7,10 @@ slider:
   slides:
     - image: /assets/images/massage-services-2.jpg
       slide_html: <h3>In-Home Massage Services</h3><p>Get a professional massage in the comfort of your own home.</p><p><a href="/in-home-massage" class="btn-u">Learn More</a></p>
-    - image: /assets/images/massage-services-3.jpg
-      slide_html: <h3>Table Massage Services</h3>
-    - image: /assets/images/massage-services-4.jpg
+    - image: /assets/images/reflexology-services.jpg
       slide_html: <h3>Reflexology Therapy Services</h3>
+    - image: /assets/images/cupping-therapy.jpg
+      slide_html: <h3>Cupping Therapy Services</h3>
 ---
 
 {% if page.slider %}
@@ -84,13 +84,13 @@ slider:
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="thumbnail-img">
           <div class="overflow-hidden">
-            <img class="img-responsive" src="/assets/images/couples-massage.jpg" alt="Couples Massage Services">
+            <img class="img-responsive" src="/assets/images/reflexology-therapy.jpg" alt="Reflexology Therapy Services">
           </div>
-          <a class="btn-more hover-effect" href="/couples-massage">read more +</a>
+          <a class="btn-more hover-effect" href="/reflexology-therapy">read more +</a>
         </div>
         <div class="caption">
-          <h3><a class="hover-effect" href="/couples-massage">Couples Massage</a></h3>
-          <p>Open Path Massage offers Couples Massage services for those looking to get a massage with their partner or someone special.</p>
+          <h3><a class="hover-effect" href="/reflexology-therapy">Reflexology Therapy</a></h3>
+          <p>Open Path Massage offers Reflexology Therapy services for those seeking alternative pain management solutions.</p>
         </div>
       </div>
     </div>
