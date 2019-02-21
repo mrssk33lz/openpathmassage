@@ -1,13 +1,14 @@
 ---
 layout: default
-page_name: massage-packages
-permalink: /massage-packages/
+page_name: massage-gift-certificates
+permalink: /massage-gift-certificates
 ---
 
 <!--=== Breadcrumbs v3 ===-->
 <div class="breadcrumbs-v3 img-v1">
   <div class="container text-center">
-    <h1>Massage Packages</h1>
+    <h1>Massage Gift Certificates</h1>
+    <p>Order a massage gift certificate for family, friends, or coworkers to be redeemed at their convenience.</p>
   </div><!--/end container-->
 </div>
 <!--=== End Breadcrumbs v3 ===-->
@@ -18,24 +19,24 @@ permalink: /massage-packages/
     <div class="col-md-4">
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="caption">
-          <h3><a class="hover-effect" href="#">Massage Starter Package</a></h3>
-          <p>Get started with a package of 5 massages able to be redeemed within 1 year.</p>
+          <h3><a class="hover-effect" href="#">Single Session</a></h3>
+          <p>Order a massage gift certificate good for 1 massage session.</p>
         </div>
       </div>
     </div>
     <div class="col-md-4">
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="caption">
-          <h3><a class="hover-effect" href="#">Massage Basic Package</a></h3>
-          <p>Setup a weekly massage package good for a set amount of massages and save on every 5 massages!</p>
+          <h3><a class="hover-effect" href="#">Multiple Sessions</a></h3>
+          <p>Order a massage gift certificate good for multiple massage sessions.</p>
         </div>
       </div>
     </div>
     <div class="col-md-4">
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="caption">
-          <h3><a class="hover-effect" href="#">Massage Mega Package</a></h3>
-          <p>Setup a bi-weekly massage package good for a set amount of massages and save on every month booked!</p>
+          <h3><a class="hover-effect" href="#">Massage Package </a></h3>
+          <p>Order a massage package as a gift certificate for a family member, friend, or coworker.</p>
         </div>
       </div>
     </div>
