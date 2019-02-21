@@ -60,10 +60,10 @@ slider:
 					<div class="overflow-hidden">
 						<img class="img-responsive" src="/assets/images/perinatal-massage.jpg" alt="Perinatal Massage Services">
 					</div>
-					<a class="btn-more hover-effect" href="/peri-natal-massage">read more +</a>
+					<a class="btn-more hover-effect" href="/perinatal-massage">read more +</a>
 				</div>
 				<div class="caption">
-					<h3><a class="hover-effect" href="/peri-natal-massage">Peri-Natal Massage Therapy</a></h3>
+					<h3><a class="hover-effect" href="/perinatal-massage">Peri-Natal Massage Therapy</a></h3>
 					<p>Open Path Massage now offers Peri-Natal Massage to help relieve the tensions associated with the changes your body is making while pregnant. Specials and Gift Certificates available include Peri-Natal Massage.</p>
 				</div>
 			</div>
