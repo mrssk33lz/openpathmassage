@@ -49,7 +49,7 @@ slider:
 			<div class="thumbnails thumbnail-style thumbnail-kenburn">
 				<div class="thumbnail-img">
 					<div class="overflow-hidden">
-						<img class="img-responsive" src="/assets/images/massage-services.jpeg" alt="In-Home Massage Services">
+						<img class="img-responsive" src="/assets/images/thumbnails/massage-services.jpeg" alt="In-Home Massage Services">
 					</div>
 					<a class="btn-more hover-effect" href="/in-home-massage">read more +</a>
 				</div>
@@ -63,7 +63,7 @@ slider:
 			<div class="thumbnails thumbnail-style thumbnail-kenburn">
 				<div class="thumbnail-img">
 					<div class="overflow-hidden">
-						<img class="img-responsive" src="/assets/images/perinatal-massage.jpg" alt="Perinatal Massage Services">
+						<img class="img-responsive" src="/assets/images/thumbnails/perinatal-massage.jpg" alt="Perinatal Massage Services">
 					</div>
 					<a class="btn-more hover-effect" href="/perinatal-massage">read more +</a>
 				</div>
@@ -77,7 +77,7 @@ slider:
 			<div class="thumbnails thumbnail-style thumbnail-kenburn">
 				<div class="thumbnail-img">
 					<div class="overflow-hidden">
-						<img class="img-responsive" src="/assets/images/chair-massage.jpg" alt="Chair Massage Services">
+						<img class="img-responsive" src="/assets/images/thumbnails/chair-massage.jpg" alt="Chair Massage Services">
 					</div>
 					<a class="btn-more hover-effect" href="/chair-massage">read more +</a>
 				</div>
@@ -93,7 +93,7 @@ slider:
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="thumbnail-img">
           <div class="overflow-hidden">
-            <img class="img-responsive" src="/assets/images/reflexology-therapy.jpg" alt="Reflexology Therapy Services">
+            <img class="img-responsive" src="/assets/images/thumbnails/reflexology-therapy.jpg" alt="Reflexology Therapy Services">
           </div>
           <a class="btn-more hover-effect" href="/reflexology-therapy">read more +</a>
         </div>
@@ -107,7 +107,7 @@ slider:
 			<div class="thumbnails thumbnail-style thumbnail-kenburn">
 				<div class="thumbnail-img">
 					<div class="overflow-hidden">
-						<img class="img-responsive" src="/assets/images/sports-massage.jpg" alt="Sports Massage & Athletic Massage Services">
+						<img class="img-responsive" src="/assets/images/thumbnails/sports-massage.jpg" alt="Sports Massage & Athletic Massage Services">
 					</div>
 					<a class="btn-more hover-effect" href="/sports-massage">read more +</a>
 				</div>
@@ -121,7 +121,7 @@ slider:
 			<div class="thumbnails thumbnail-style thumbnail-kenburn">
 				<div class="thumbnail-img">
 					<div class="overflow-hidden">
-						<img class="img-responsive" src="/assets/images/cupping-therapy.jpg" alt="Cupping Therapy">
+						<img class="img-responsive" src="/assets/images/thumbnails/cupping-therapy.jpg" alt="Cupping Therapy">
 					</div>
 					<a class="btn-more hover-effect" href="/cupping-therapy">read more +</a>
 				</div>
@@ -137,7 +137,7 @@ slider:
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="thumbnail-img">
           <div class="overflow-hidden">
-            <img class="img-responsive" src="/assets/images/massage-parties.jpg" alt="Massage Parties">
+            <img class="img-responsive" src="/assets/images/thumbnails/massage-parties.jpg" alt="Massage Parties">
           </div>
           <a class="btn-more hover-effect" href="/massage-parties">read more +</a>
         </div>
@@ -151,7 +151,7 @@ slider:
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="thumbnail-img">
           <div class="overflow-hidden">
-            <img class="img-responsive" src="/assets/images/massage-packages-2.jpg" alt="Massages Packages">
+            <img class="img-responsive" src="/assets/images/thumbnails/massage-packages-2.jpg" alt="Massages Packages">
           </div>
           <a class="btn-more hover-effect" href="/massage-packages">read more +</a>
         </div>
@@ -165,7 +165,7 @@ slider:
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="thumbnail-img">
           <div class="overflow-hidden">
-            <img class="img-responsive" src="/assets/images/gift-certificates.jpg" alt="Massage Gift Certificates">
+            <img class="img-responsive" src="/assets/images/thumbnails/gift-certificates.jpg" alt="Massage Gift Certificates">
           </div>
           <a class="btn-more hover-effect" href="/massage-gift-certifcates">read more +</a>
         </div>
