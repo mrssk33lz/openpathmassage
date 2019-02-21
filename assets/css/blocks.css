@@ -6595,6 +6595,9 @@ a.thumbnail {
 	margin-left: -10px;
 	position: relative;
 	transition: all 0.8s ease-in-out;
+  max-height: 231px;
+  height: 231px;
+  width: 100%;
 }
 .thumbnail-kenburn:hover img {
 	transform: scale(1.2) rotate(2deg);
