@@ -39,6 +39,11 @@ slider:
 <!--=== Content Part ===-->
 <div class="container content">
   <div class="margin-bottom-10"></div>
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Massage Services</h1>
+      </div>
+    </div>
   <div class="row">
 		<div class="col-md-4">
 			<div class="thumbnails thumbnail-style thumbnail-kenburn">
