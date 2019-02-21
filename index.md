@@ -5,7 +5,7 @@ permalink: /
 slider_cache: false
 slider:
   slides:
-    - image: /assets/images/massage-services-2.jpg
+    - image: /assets/images/in-home-massage.jpg
       slide_html: <h3>In-Home Massage Services</h3><p>Get a professional table massage in the comfort of your own home.</p><p><a href="/in-home-massage" class="btn-u">Learn More</a></p>
     - image: /assets/images/reflexology-therapy.jpg
       slide_html: <h3>Reflexology Therapy Services</h3><p>Experience pain relief and relaxation from the ancient technique of Reflexology Therapy.</p><p><a href="/reflexology-therapy" class="btn-u">Learn More</a></p>
