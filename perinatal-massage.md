@@ -1,7 +1,7 @@
 ---
 layout: default
 page_name: perinatal-massage
-permalink: /massage-services/perinatal-massage/
+permalink: /perinatal-massage/
 ---
 
 <!--=== Breadcrumbs v3 ===-->
