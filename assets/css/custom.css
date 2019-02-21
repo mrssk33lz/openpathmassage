@@ -69,3 +69,8 @@ img.procedure-img{
 img.product-img{
   width: 25%
 }
+
+#myCarousel .carousel-inner .item div {
+  background: rgba(72, 120, 124, 0.5);
+  width: 100%;
+}
