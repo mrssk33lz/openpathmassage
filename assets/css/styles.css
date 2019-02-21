@@ -6973,7 +6973,7 @@ you can use the generic selector below, but it's slower:
  .btn-u:active,
  .btn-u.active,
  .open .dropdown-toggle.btn-u {
- 	background: #2980b9;
+ 	background: #48787C;
  	color: #fff;
  }
 
