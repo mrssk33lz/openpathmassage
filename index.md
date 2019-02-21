@@ -11,6 +11,10 @@ slider:
       slide_html: <h3>Reflexology Therapy Services</h3>
     - image: /assets/images/cupping-therapy.jpg
       slide_html: <h3>Cupping Therapy Services</h3>
+    - image: /assets/images/massage-packages-2.jpg
+      slide_html: <h3>Massage Packages</h3>
+    - image: /assets/images/massage-parties.jpg
+      slide_html: <h3>Massage Parties</h3>
 ---
 
 {% if page.slider %}
@@ -142,7 +146,7 @@ slider:
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="thumbnail-img">
           <div class="overflow-hidden">
-            <img class="img-responsive" src="/assets/images/massage-packages.jpg" alt="Massages Packages">
+            <img class="img-responsive" src="/assets/images/massage-packages-2.jpg" alt="Massages Packages">
           </div>
           <a class="btn-more hover-effect" href="/massage-packages">read more +</a>
         </div>
