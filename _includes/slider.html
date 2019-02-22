@@ -10,27 +10,22 @@ Inspired from:  http://codepen.io/Rowno/pen/Afykb
 opacity: 0;
 transition-property: opacity;
 }
-
 #myCarousel.carousel-fade .carousel-inner .active {
 opacity: 1;
 }
-
 #myCarousel.carousel-fade .carousel-inner .active.left,
 #myCarousel.carousel-fade .carousel-inner .active.right {
 left: 0;
 opacity: 0;
 z-index: 1;
 }
-
 #myCarousel.carousel-fade .carousel-inner .next.left,
 #myCarousel.carousel-fade .carousel-inner .prev.right {
 opacity: 1;
 }
-
 #myCarousel.carousel-fade .carousel-control {
 z-index: 2;
 }
-
 /*
 WHAT IS NEW IN 3.3: "Added transforms to improve carousel performance in modern browsers."
 Need to override the 3.3 new styles for modern browsers & apply opacity
@@ -58,16 +53,12 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
 }
 </style>
 {% endif %}
-
 <div id="myCarousel" class="carousel slide{% if include.transition == 'fade' %} carousel-fade{% endif %}" data-ride="carousel" data-interval="{{ include.duration }}000">
-    <!-- Indicators -->
     <ol class="carousel-indicators">
     {% for item in page.slider.slides %}
       <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
     {% endfor %}
     </ol>
-  
-    <!-- Wrapper for slides -->
     <div class="carousel-inner">
     {% if page.slider_cache == false %}
       {% for item in page.slider.slides %}
@@ -83,9 +74,6 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
       {% endfor %}
     {% endif %}
     </div>
-    
-  
-    <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left">‹</span>
       <span class="sr-only">Previous</span>
@@ -95,8 +83,6 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
       <span class="sr-only">Next</span>
     </a>
   </div>
-
-
   <style>
   #myCarousel .item { width: 100%; backface-visibility: visible;}
   {% if include.unit == '%' %}#myCarousel .item {padding-bottom: {{ include.height }}%;}{% endif %}
@@ -121,7 +107,6 @@ Need to override the 3.3 new styles for modern browsers & apply opacity
   #myCarousel .item > div p {
     color: #FFFFFF;
   }
-
   #myCarousel span.glyphicon {
       font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
       color: #FFFFFF !important;
