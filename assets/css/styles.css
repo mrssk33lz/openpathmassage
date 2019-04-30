@@ -21903,7 +21903,6 @@ you can use the generic selector below, but it's slower:
  #myCarousel .carousel-inner p {
    font-size: 24px;
    font-weight: 200;
-   margin-bottom: 0;
    text-transform: uppercase;
  }
 
