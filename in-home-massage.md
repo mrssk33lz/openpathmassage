@@ -7,8 +7,10 @@ permalink: /in-home-massage
 <!--=== Breadcrumbs v3 ===-->
 <div class="breadcrumbs-v3 img-v1">
   <div class="container text-center">
-    <h1>In-Home Massage Services</h1>
-    <p>Open Path Massage provides professional massage therapy services in the convenience of your own home.</p>
+    <div class="page-heading">
+      <h1>In-Home Massage Services</h1>
+      <p>Open Path Massage provides professional massage therapy services in the convenience of your own home.</p>
+    </div>
   </div><!--/end container-->
 </div>
 <!--=== End Breadcrumbs v3 ===-->

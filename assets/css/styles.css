@@ -21894,7 +21894,8 @@ you can use the generic selector below, but it's slower:
    width: 25%
  }
 
- #myCarousel .carousel-inner .item div {
+ #myCarousel .carousel-inner .item div,
+ .breadcrumbs-v3 .page-heading {
    background: rgba(72, 120, 124, 0.5);
    width: 100%;
  }
