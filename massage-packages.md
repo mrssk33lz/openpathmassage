@@ -8,6 +8,7 @@ permalink: /massage-packages/
 <div class="breadcrumbs-v3 img-v1">
   <div class="container text-center">
     <h1>Massage Packages</h1>
+    <p>Order a massage package and save on massages to be redeemed at your convenience.</p>
   </div><!--/end container-->
 </div>
 <!--=== End Breadcrumbs v3 ===-->
