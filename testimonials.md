@@ -5,9 +5,11 @@ permalink: /testimonials/
 ---
 <!--=== Breadcrumbs v3 ===-->
 <div class="breadcrumbs-v3 img-v1">
-  <div class="container text-center">
-    <h1>Testimonials</h1>
-  </div><!--/end container-->
+  <div class="page-heading">
+    <div class="container text-center">
+      <h1>Testimonials</h1>
+    </div><!--/end container-->
+  </div>
 </div>
 <!--=== End Breadcrumbs v3 ===-->
 <div class="bg-color-light-2">
