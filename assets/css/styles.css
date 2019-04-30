@@ -21900,6 +21900,13 @@ you can use the generic selector below, but it's slower:
    width: 100%;
  }
 
+ #myCarousel .carousel-inner p {
+   font-size: 24px;
+   font-weight: 200;
+   margin-bottom: 0;
+   text-transform: uppercase;
+ }
+
  @media (max-width: 992px){
    #myCarousel {
      display: none;
