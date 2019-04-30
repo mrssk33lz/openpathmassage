@@ -40,5 +40,34 @@ permalink: /massage-packages/
       </div>
     </div>
   </div>
+  <div class="row clear">
+    <div class="col-md-12">
+      <h3>Client Testimonials</h3>
+    </div>
+    <div class="col-sm-6">
+      <div class="testimonials-v4 md-margin-bottom-50">
+        <div class="testimonials-v4-in">
+          <p>Erica is a great massage therapist!</p>
+        </div>
+        <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
+        <span class="testimonials-author">
+          Jane<br>
+          <em>Teacher</em>
+        </span>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="testimonials-v4">
+        <div class="testimonials-v4-in">
+          <p>We like Erica's work so much we got a table for the house.</p>
+        </div>
+        <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
+        <span class="testimonials-author">
+          John<br>
+          <em>Home Remodeling</em>
+        </span>
+      </div>
+    </div>
+  </div>
 </div>
 <!--=== End Profile ===-->

@@ -21822,6 +21822,23 @@ you can use the generic selector below, but it's slower:
      background-size: cover;
      background-position: center center;
  }
+
+ .in-home-massage .breadcrumbs-v3.img-v1 {
+ 	background: url(../images/in-home-massage.jpg) no-repeat;
+ 	background-size: cover;
+ 	background-position: center center;
+ }
+ .perinatal-massage .breadcrumbs-v3.img-v1 {
+ 	background: url(../images/perinatal-massage.jpg) no-repeat;
+ 	background-size: cover;
+ 	background-position: center center;
+ }
+
+
+.row.clear{
+	margin-top: 1em;
+}
+
  @media (min-width : 320px) { img.facility{width: 100%;} }
  @media (min-width : 480px) {  }
  @media (min-width : 768px) {
