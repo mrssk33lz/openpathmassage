@@ -74,26 +74,27 @@ permalink: /in-home-massage
                 <hr>
                 <ul>
                   <li>Therpapeudic Massage</li>
-                  <li>Sports Massage</li>
-                  <li>Deep Tissue /Knots and Trigger Point Work</li>
+                  <li><a href="/sports-massage">Athletic/Sports Massage</a></li>
+                  <li>Deep Tissue/Knots and Trigger Point Work</li>
                   <li>Cross Fiber Friction Therapies where needed</li>
-                  <li>Cupping Therapy (if suggested or requested)</li>
+                  <li><a href="/cupping-therapy">Cupping Therapy</a> (if suggested or requested)</li>
                 </ul>
               </div>
               <div class="collapse" id="collapseThree">
-                <h2>Chair Massage</h2>
+                <h2>Chair Massage Therapy</h2>
                 <hr>
                 <ul>
-                  <li>Pay by the minute, or up front for a whole party.</li>
-                  <li>Perfect for company wellness programs.</li>
-                  <li>Add relaxing massage to any event.</li>
+                  <li>A massage chair is a much more portable way to provide massage therapy than with a massage table.</li>
+                  <li><a href="/chair-massage">Chair Massage Therapy</a> is paid by the minute, or up front for a length of time.</li>
+                  <li>Chair Massage is perfect for company wellness programs.</li>
+                  <li>Add relaxing massage to any event, or book a <a href="/massage-parties">Massage Party</a>!</li>
                 </ul>
               </div>
               <div class="collapse" id="collapseFour">
                 <h2>Cupping Therapy</h2>
                 <hr>
                 <ul>
-                  <li>Cupping therapy releases tension and relaxes tight muscles using suction.</li>
+                  <li><a href="/cupping-therapy">Cupping Therapy</a> releases tension and relaxes tight muscles using suction.</li>
                   <li>Setup a full cupping session, or add-on a cupping session to a massage.</li>
                 </ul>
               </div>
@@ -101,7 +102,7 @@ permalink: /in-home-massage
                 <h2>Athletic / Sports Massage</h2>
                 <hr>
                 <ul>
-                  <li>Relax muscles before or after a major event, or on a schedule for maximum results.</li>
+                  <li><a href="/sports-massage">Sports Massage</a> relaxes muscles before or after a major event, or on a schedule for maximum results.</li>
                 </ul>
               </div>
               <div class="collapse" id="collapseSix">
