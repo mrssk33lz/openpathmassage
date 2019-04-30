@@ -7,8 +7,10 @@ permalink: /gift-certificates
 <!--=== Breadcrumbs v3 ===-->
 <div class="breadcrumbs-v3 img-v1">
   <div class="container text-center">
-    <h1>Massage Gift Certificates</h1>
-    <p>Order a massage gift certificate for family, friends, or coworkers to be redeemed at their convenience.</p>
+    <div class="page-heading">
+      <h1>Massage Gift Certificates</h1>
+      <p>Order a massage gift certificate for family, friends, or coworkers to be redeemed at their convenience.</p>
+    </div>
   </div><!--/end container-->
 </div>
 <!--=== End Breadcrumbs v3 ===-->
