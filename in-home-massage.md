@@ -52,7 +52,7 @@ permalink: /in-home-massage
           <div class="row">
             <div class="col-md-12">
               <div class="collapse in" id="collapseZero">
-                <h2>In-Home Table Massage</h2>
+                <h2>In-Home Table Massage Pricing</h2>
                 <hr>
                 <ul>
                   <li>$70 for 60 Minutes</li>
@@ -61,7 +61,7 @@ permalink: /in-home-massage
                 </ul>
               </div>
               <div class="collapse" id="collapseOne">
-                <h2>In-Home Table Massage</h2>
+                <h2>In-Home Table Massage Pricing</h2>
                 <hr>
                 <ul>
                   <li>$70 for 60 Minutes</li>
