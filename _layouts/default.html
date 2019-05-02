@@ -6,6 +6,9 @@
   <body class="header-fixed header-fixed-space {{page.page_name}}">
     <div class="wrapper">
     {% include header.html %}
+    {% if page.slider %}
+      {% include slider.html height="33" unit="%" transition="slide" duration="8" %}
+    {% endif %}
     {% include breadcrumbs.html %}
     {{ content }}
     {% include footer.html %}

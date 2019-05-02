@@ -16,9 +16,6 @@ slider:
     - image: /assets/images/massage-parties.jpg
       slide_html: <h3>Massage Parties</h3><p>Book a Massage Party for your next get together! I'll bring my massage chair and it's only a dollar per minute for anyone who wants to sit during the party.</p><p><a href="/massage-parties" class="btn-u btn-purple">Learn More</a></p>
 ---
-{% if page.slider %}
-  {% include slider.html height="33" unit="%" transition="slide" duration="8" %}
-{% endif %}
 <div class="call-action-v1 bg-color-light">
   <div class="container">
     <div class="call-action-v1-box">
