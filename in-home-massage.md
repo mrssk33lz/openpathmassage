@@ -145,8 +145,6 @@ testimonial_2_icon: man
      <p>A regular commitment of a frequent massage will help to alleviate Knots, Trigger Points, Piriformis Syndrome, Sciatic Nerve Impingement, or Thoracic Outlet Syndrome. Sedentary careers can create problems such as forearm and carpel tunnel issues, tight hamstrings and quads, stiff neck and limited range of motion, mid and low back discomfort due to poor office chair use/equipment, and stressful long commutes. With massage these conditions can be resolved or managed so you can feel relief. Physically active careers also come with there share of pain and discomfort and greater risk for injury if work is not performed properly. In this economy Massage is essential for a better wellbeing and I want to make sure I can help no matter what your budget is. Please Contact Me for more pricing details specific to your needs. </p>
     </div>
   </div>
-  
+  {% include testimonials.html %}
 </div>
 <!--=== End Profile ===-->
-
-{% include testimonials.html %}
