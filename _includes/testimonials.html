@@ -1,9 +1,8 @@
-{% if page.testimonials %}
+{% if page.testimonial_1 %}
 <div class="row clear">
   <div class="col-md-12">
     <h3>Client Testimonials</h3>
   </div>
-  {% if page.testimonial_1 %}
   {{ #page.testimonial_1 }}
   <div class="col-sm-6">
     <div class="testimonials-v4 md-margin-bottom-50">
@@ -23,7 +22,6 @@
     </div>
   </div>
   {{ /page.testimonial_1 }}
-  {% endif %}
   {% if page.testimonial_2 %}
   {{ #page.testimonial_2 }}
   <div class="col-sm-6">
@@ -43,6 +41,8 @@
       </span>
     </div>
   </div>
+  {% endif %}
 </div>
 {{ /page.testimonial_2 }}
 {% endif %}
+
