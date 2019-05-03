@@ -5,12 +5,10 @@ permalink: /chair-massage/
 ---
 
 <!--=== Page Heading ===-->
-<div class="breadcrumbs-v3 img-v1">
-  <div class="page-heading">
+<div class="page-heading img-v1">
     <div class="container text-center">
       <h1>Chair Massage Therapy Services</h1>
     </div><!--/end container-->
-  </div>
 </div>
 <!--=== End Page Heading ===-->
 
