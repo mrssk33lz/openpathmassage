@@ -1,48 +1,44 @@
-{% if page.testimonial_1 %}
+{% if page.testimonial_1_name %}
 <div class="row clear">
   <div class="col-md-12">
     <h3>Client Testimonials</h3>
   </div>
-  {{ #page.testimonial_1 }}
   <div class="col-sm-6">
     <div class="testimonials-v4 md-margin-bottom-50">
       <div class="testimonials-v4-in">
-        <p>{{ quote }}</p>
+        <p>{{ page.testimonial_1_quote }}</p>
       </div>
-      {% if icon = "woman" %}
+      {% if page.testimonial_1_icon = "woman" %}
       <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
       {% endif %}
-      {% if icon = "man" %}
+      {% if page.testimonial_1_icon = "man" %}
       <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
       {% endif %}
       <span class="testimonials-author">
-        {{name}}<br>
-        <em>{{ profession }}</em>
+        {{ page.testimonial_1_name }}<br>
+        <em>{{ page.testimonial_1_profession }}</em>
       </span>
     </div>
   </div>
-  {{ /page.testimonial_1 }}
-  {% if page.testimonial_2 %}
-  {{ #page.testimonial_2 }}
+  {% if page.testimonial_2_name %}
   <div class="col-sm-6">
     <div class="testimonials-v4">
       <div class="testimonials-v4-in">
-        <p>{{ quote }}</p>
+        <p>{{ page.testimonial_2_quote }}</p>
       </div>
-      {% if icon = "woman" %}
+      {% if page.testimonial_2_icon = "woman" %}
       <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
       {% endif %}
-      {% if icon = "man" %}
+      {% if page.testimonial_2_icon = "man" %}
       <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
       {% endif %}
       <span class="testimonials-author">
-        {{name}}<br>
-        <em>{{ profession }}</em>
+        {{ page.testimonial_2_name }}<br>
+        <em>{{ page.testimonial_2_profession }}</em>
       </span>
     </div>
   </div>
   {% endif %}
 </div>
-{{ /page.testimonial_2 }}
 {% endif %}
 
