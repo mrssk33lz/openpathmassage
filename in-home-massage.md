@@ -5,7 +5,7 @@ permalink: /in-home-massage
 heading: "In-Home Masssage Services"
 description: "Open Path Massage provides professional massage therapy services in the convenience of your own home."
 testimonial_1_name: Test
-testimonial_1_quote: "Erica is a great massage therapist!""
+testimonial_1_quote: "Erica is a great massage therapist!"
 testimonial_1_profession: Teacher
 testimonial_1_icon: woman
 testimonial_2_name: "Test 2"
