@@ -2,16 +2,11 @@
 layout: default
 page_name: in-home-massage
 permalink: /in-home-massage
+heading_title: In-Home Masssage Services
+heading_description: Open Path Massage provides professional massage therapy services in the convenience of your own home.
 ---
+{% include page-heading.html %}
 
-<!--=== Page Heading ===-->
-<div class="page-heading img-v1">
-  <div class="container text-center">
-    <h1>In-Home Massage Services</h1>
-    <p>Open Path Massage provides professional massage therapy services in the convenience of your own home.</p>
-  </div><!--/end container-->
-</div>
-<!--=== End Page Heading ===-->
 {% include breadcrumbs.html %}
 <!--=== Profile ===-->
 <div class="container content profile">
@@ -57,7 +52,7 @@ permalink: /in-home-massage
                 <hr>
                 <ul>
                   <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
+                  <li>$90 for 90 Minutes</li>
                   <li>$120 for 120 minutes</li>
                 </ul>
               </div>
@@ -66,7 +61,7 @@ permalink: /in-home-massage
                 <hr>
                 <ul>
                   <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
+                  <li>$90 for 90 Minutes</li>
                   <li>$120 for 120 minutes</li>
                 </ul>
               </div>
