@@ -2901,7 +2901,7 @@ img.img-center,
 /*Breadcrumbs v1 and v3
 ------------------------------------*/
 .breadcrumbs-v1,
-.breadcrumbs-v3 {
+.page-heading {
 	transition: all 0.8s ease-in-out;
 }
 
@@ -2990,35 +2990,35 @@ img.img-center,
 
 /*Breadcrumbs v3
 ------------------------------------*/
-.breadcrumbs-v3 {
+.page-heading {
   z-index: 1;
   padding: 100px 0;
   position: relative;
 }
 
-.breadcrumbs-v3.breadcrumbs-lg {
+.page-heading.breadcrumbs-lg {
   padding: 200px 0;
 }
 
-.breadcrumbs-v3.img-v1 {
+.page-heading.img-v1 {
   background: url(../img/breadcrumbs/img1.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.breadcrumbs-v3.img-v2 {
+.page-heading.img-v2 {
   background: url(../img/breadcrumbs/img2.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.breadcrumbs-v3.img-v3 {
+.page-heading.img-v3 {
   background: url(../img/breadcrumbs/img3.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.breadcrumbs-v3:after {
+.page-heading:after {
   top: 0;
   left: 0;
   z-index: -1;
@@ -3029,14 +3029,14 @@ img.img-center,
   background: rgba(0,0,0,0.2);
 }
 
-.breadcrumbs-v3 h1 {
+.page-heading h1 {
   color: #fff;
   font-size: 40px;
   line-height: 50px;
   text-transform: uppercase;
 }
 
-.breadcrumbs-v3 p {
+.page-heading p {
   color: #fff;
   font-size: 24px;
   font-weight: 200;
@@ -3045,23 +3045,23 @@ img.img-center,
 }
 
 @media (max-width: 992px) {
-  .breadcrumbs-v3.breadcrumbs-lg {
+  .page-heading.breadcrumbs-lg {
     padding: 100px 0;
   }
 }
 
 @media (max-width: 768px) {
-  .breadcrumbs-v3,
-  .breadcrumbs-v3.breadcrumbs-lg {
+  .page-heading,
+  .page-heading.breadcrumbs-lg {
     padding: 50px 0;
   }
 
-  .breadcrumbs-v3 h1 {
+  .page-heading h1 {
     font-size: 30px;
     line-height: 40px;
   }
 
-  .breadcrumbs-v3 p {
+  .page-heading p {
     font-size: 18px;
   }
 }
@@ -19174,13 +19174,13 @@ you can use the generic selector below, but it's slower:
  }
 
  body.dark .breadcrumbs-v1 h1,
- body.dark .breadcrumbs-v3 h1 {
+ body.dark .page-heading h1 {
  	font-weight: 400;
  }
 
  body.dark .breadcrumbs-v2 h1,
- body.dark .breadcrumbs-v3 h1,
- body.dark .breadcrumbs-v3 p {
+ body.dark .page-heading h1,
+ body.dark .page-heading p {
  	color: #eee;
  }
 
@@ -19191,7 +19191,7 @@ you can use the generic selector below, but it's slower:
  }
 
  body.dark .breadcrumbs-v1:after,
- body.dark .breadcrumbs-v3:after {
+ body.dark .page-heading:after {
    background: rgba(0,0,0,0.6);
  }
  /*Main Slider Parallax
@@ -21816,18 +21816,18 @@ you can use the generic selector below, but it's slower:
 
  /*.bg-color-light { background-color: #90a7d5 !important; }*/
  .bg-color-light-2 { background-color: #f7f7f7 !important; }
- .breadcrumbs-v3.img-v1 {
+ .page-heading.img-v1 {
      background: url(../images/breadcrumbs.jpg) no-repeat;
      background-size: cover;
      background-position: center center;
  }
 
- .in-home-massage .breadcrumbs-v3.img-v1 {
+ .in-home-massage .page-heading.img-v1 {
  	background: url(../images/in-home-massage.jpg) no-repeat;
  	background-size: cover;
  	background-position: center center;
  }
- .perinatal-massage .breadcrumbs-v3.img-v1 {
+ .perinatal-massage .page-heading.img-v1 {
  	background: url(../images/perinatal-massage.jpg) no-repeat;
  	background-size: cover;
  	background-position: center center;
@@ -21894,7 +21894,7 @@ you can use the generic selector below, but it's slower:
  }
 
  #myCarousel .carousel-inner .item div,
- .breadcrumbs-v3 .page-heading {
+ .page-heading .page-heading {
    background: rgba(72, 120, 124, 0.5);
    width: 100%;
  }

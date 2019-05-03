@@ -4,7 +4,7 @@ page_name: chair-massage
 permalink: /chair-massage/
 ---
 
-<!--=== Breadcrumbs v3 ===-->
+<!--=== Page Heading ===-->
 <div class="breadcrumbs-v3 img-v1">
   <div class="page-heading">
     <div class="container text-center">
@@ -12,7 +12,7 @@ permalink: /chair-massage/
     </div><!--/end container-->
   </div>
 </div>
-<!--=== End Breadcrumbs v3 ===-->
+<!--=== End Page Heading ===-->
 
 <!--=== Profile ===-->
 <div class="container content profile">
