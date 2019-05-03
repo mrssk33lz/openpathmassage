@@ -3,13 +3,13 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
   {% include head-min.html %}
+  {% include css.html %}
   <body class="header-fixed header-fixed-space {{page.page_name}}">
     <div class="wrapper">
     {% include header.html %}
     {{ content }}
     {% include footer.html %}
     </div>
-    {% include css.html %}
     {% include javascript.html %}
   </body>
 </html>
