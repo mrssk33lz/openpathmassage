@@ -4,11 +4,12 @@ page_name: in-home-massage
 permalink: /in-home-massage
 heading: In-Home Masssage Services
 description: Open Path Massage provides professional massage therapy services in the convenience of your own home.
-testimonials:
+testimonial_1:
   name: Test
   quote: Erica is a great massage therapist!
   profession: Teacher
   icon: woman
+testimonial_2:
   name: Test 2
   quote: Testing 123
   profession: Tester
