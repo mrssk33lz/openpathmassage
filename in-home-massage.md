@@ -1,4 +1,5 @@
 ---
+title: In-Home Massage Therapy in Pottstown and the Philadelphia area
 page_name: in-home-massage
 permalink: /in-home-massage
 heading: In-Home Masssage Services
