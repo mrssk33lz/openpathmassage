@@ -3,29 +3,23 @@
   <div class="col-md-12">
     <h3>Client Testimonials</h3>
   </div>
-  
+  {% for client in page.testimonials %}
   <div class="col-sm-6">
     <div class="testimonials-v4 md-margin-bottom-50">
       <div class="testimonials-v4-in">
-        {{#each testimonials.quote}}
-        <p>{{.}}</p>
-        {{/each}}
+        <p>{{ client.quote }}</p>
       </div>
-      {% if page.testimonials.icon = "woman" %}
+      {% if client.icon = "woman" %}
       <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
       {% endif %}
-      {% if page.testimonials.icon = "man" %}
+      {% if client.icon = "man" %}
       <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
       {% endif %}
       <span class="testimonials-author">
-        {{#each testimonials.name}}
-        {{.}}<br>
-        {{/each}}
-        {{#each testimonials.profession}}
-        <em>{{.}}</em>
-        {{/each}}
+        {{ client.name }}<br>
+        <em>{{ client.profession }}</em>
       </span>
     </div>
   </div>
-</div>
+  {% endfor %}
 {% endif %}
