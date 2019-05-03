@@ -1,5 +1,4 @@
 ---
-layout: default
 page_name: chair-massage
 permalink: /chair-massage/
 ---

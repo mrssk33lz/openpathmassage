@@ -1,5 +1,4 @@
 ---
-layout: default
 page_name: in-home-massage
 permalink: /in-home-massage
 heading: In-Home Masssage Services

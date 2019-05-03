@@ -1,5 +1,4 @@
 ---
-layout: default
 page_name: perinatal-massage
 permalink: /perinatal-massage
 heading: Perinatal Massage Services

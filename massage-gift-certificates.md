@@ -1,5 +1,4 @@
 ---
-layout: default
 page_name: massage-gift-certificates
 permalink: /gift-certificates
 ---

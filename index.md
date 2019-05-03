@@ -1,5 +1,4 @@
 ---
-layout: default
 page_name: home
 permalink: /
 slider_cache: false

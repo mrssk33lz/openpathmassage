@@ -1,5 +1,4 @@
 ---
-layout: default
 page_name: reflexology-therapy
 permalink: /reflexology-therapy/
 ---

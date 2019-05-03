@@ -1,5 +1,4 @@
 ---
-layout: default
 page_name: sports-massage
 permalink: /sports-massage/
 ---
