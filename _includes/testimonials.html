@@ -7,9 +7,9 @@
       <div class="testimonials-v4-in">
         <p>{{ page.testimonial_1_quote }}</p>
       </div>
-      {% if page.testimonial_1_icon = "woman" %}
+      {% if page.testimonial_1_icon == "woman" %}
       <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
-      {% elseif %}
+      {% else %}
       <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
       {% endif %}
       <span class="testimonials-author">
@@ -23,9 +23,9 @@
       <div class="testimonials-v4-in">
         <p>{{ page.testimonial_2_quote }}</p>
       </div>
-      {% if page.testimonial_2_icon = "woman" %}
+      {% if page.testimonial_2_icon == "woman" %}
       <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
-      {% elseif %}
+      {% else %}
       <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
       {% endif %}
       <span class="testimonials-author">
