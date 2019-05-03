@@ -1,16 +1,23 @@
 ---
-layout: default
+title: Cupping Therapy Services
+heading: Cupping Therapy Services
+description: Test
+meta_description: This is a test.
 page_name: cupping-therapy
 permalink: /cupping-therapy/
+testimonial_1:
+  name: John Smith
+  quote: Nice work
+  profession: Blacksmith
+  icon: man
+testimonial_2:
+  name: Test 2
+  quote: Testing 123
+  profession: Tester
+  icon: woman
 ---
 
-<!--=== Page Heading ===-->
-<div class="page-heading img-v1">
-  <div class="container text-center">
-    <h1>Perinatal Massage Services</h1>
-  </div><!--/end container-->
-</div>
-<!--=== End Page Heading ===-->
+{% include page-heading.html %}
 {% include breadcrumbs.html %}
 <!--=== Profile ===-->
 <div class="container content profile">
@@ -60,5 +67,6 @@ permalink: /cupping-therapy/
     <p>Please feel free to Contact Me for more information on what massage can help you, or to schedule a Massage with me in your home. I can travel within the southern Berks, southern Montgomery and most of Chester Counties. I provide music, aromatherapy, the table, linens and lotion/oil. I only need a room or space to allow for the table and myself to work around you.</p>
     <p>A regular commitment of a frequent massage will help to alleviate Knots, Trigger Points, Piriformis Syndrome, Sciatic Nerve Impingement, or Thoracic Outlet Syndrome. Sedentary careers can create problems such as forearm and carpel tunnel issues, tight hamstrings and quads, stiff neck and limited range of motion, mid and low back discomfort due to poor office chair use/equipment, and stressful long commutes. With massage these conditions can be resolved or managed so you can feel relief. Physically active careers also come with there share of pain and discomfort and greater risk for injury if work is not performed properly. In this economy Massage is essential for a better wellbeing and I want to make sure I can help no matter what your budget is. Please Contact Me for more pricing details specific to your needs.</p>
   </div>
+  {% include testimonials.html %}
 </div>
 <!--=== End Profile ===-->

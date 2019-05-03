@@ -3,6 +3,9 @@ layout: default
 page_name: contact
 permalink: /contact/
 ---
+
+{% include breadcrumbs.html %}
+
 <div class="breadcrumbs">
 	<div class="container">
 		<h1 class="pull-left">Contact Erica</h1>

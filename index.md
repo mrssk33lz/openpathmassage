@@ -23,7 +23,7 @@ slider:
   <div class="container">
     <div class="call-action-v1-box">
       <div class="call-action-v1-in">
-        <p class="white-text">Open Path Massage is your path to wellness through massage. Open Path Massage offers in-home massage sessions by appointment.</p>
+        <p class="white-text">Open Path Massage is your path to wellness through massage therapy!<br />We offer in-home massage sessions and a growing list of wellness therapy sessions by appointment.</p>
       </div>
       <div class="call-action-v1-in inner-btn page-scroll">
         <a href="/contact" class="btn-u btn-brd btn-brd-hover btn-u-block">SCHEDULE AN APPOINTMENT</a>

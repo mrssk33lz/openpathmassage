@@ -9,15 +9,16 @@ testimonial_1:
   quote: Nice work
   profession: Blacksmith
   icon: man
-testimonial_2_name: Test 2
-testimonial_2_quote: Testing 123
-testimonial_2_profession: Tester
-testimonial_2_icon: man
+testimonial_2:
+  name: Test 2
+  quote: Testing 123
+  profession: Tester
+  icon: woman
 ---
 
 {% include page-heading.html %}
-
 {% include breadcrumbs.html %}
+
 <!--=== Profile ===-->
 <div class="container content profile">
   <div class="row">
