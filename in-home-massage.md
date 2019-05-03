@@ -4,6 +4,19 @@ page_name: in-home-massage
 permalink: /in-home-massage
 heading: In-Home Masssage Services
 description: Open Path Massage provides professional massage therapy services in the convenience of your own home.
+testimonials:
+  name:
+    - Jane
+    - John
+  quote:
+    - Erica is a great massage therapist!
+    - We like Erica's work so much we got a table for the house.
+  profession:
+    - Teacher
+    - Home Remodeling
+  icon:
+    - man
+    - woman
 ---
 {% include page-heading.html %}
 
@@ -136,34 +149,7 @@ description: Open Path Massage provides professional massage therapy services in
      <p>A regular commitment of a frequent massage will help to alleviate Knots, Trigger Points, Piriformis Syndrome, Sciatic Nerve Impingement, or Thoracic Outlet Syndrome. Sedentary careers can create problems such as forearm and carpel tunnel issues, tight hamstrings and quads, stiff neck and limited range of motion, mid and low back discomfort due to poor office chair use/equipment, and stressful long commutes. With massage these conditions can be resolved or managed so you can feel relief. Physically active careers also come with there share of pain and discomfort and greater risk for injury if work is not performed properly. In this economy Massage is essential for a better wellbeing and I want to make sure I can help no matter what your budget is. Please Contact Me for more pricing details specific to your needs. </p>
     </div>
   </div>
-  <div class="row clear">
-    <div class="col-md-12">
-      <h3>Client Testimonials</h3>
-    </div>
-    <div class="col-sm-6">
-      <div class="testimonials-v4 md-margin-bottom-50">
-        <div class="testimonials-v4-in">
-          <p>Erica is a great massage therapist!</p>
-        </div>
-        <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
-        <span class="testimonials-author">
-          Jane<br>
-          <em>Teacher</em>
-        </span>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="testimonials-v4">
-        <div class="testimonials-v4-in">
-          <p>We like Erica's work so much we got a table for the house.</p>
-        </div>
-        <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
-        <span class="testimonials-author">
-          John<br>
-          <em>Home Remodeling</em>
-        </span>
-      </div>
-    </div>
-  </div>
+  
 </div>
 <!--=== End Profile ===-->
+{% include testimonials.html %}

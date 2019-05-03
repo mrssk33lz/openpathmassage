@@ -1,0 +1,31 @@
+{% if page.testimonials %}
+<div class="row clear">
+  <div class="col-md-12">
+    <h3>Client Testimonials</h3>
+  </div>
+  
+  <div class="col-sm-6">
+    <div class="testimonials-v4 md-margin-bottom-50">
+      <div class="testimonials-v4-in">
+        {{#each testimonials.quote}}
+        <p>{{.}}</p>
+        {{/each}}
+      </div>
+      {% if page.testimonials.icon = "woman" %}
+      <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
+      {% endif %}
+      {% if page.testimonials.icon = "man" %}
+      <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
+      {% endif %}
+      <span class="testimonials-author">
+        {{#each testimonials.name}}
+        {{.}}<br>
+        {{/each}}
+        {{#each testimonials.profession}}
+        <em>{{.}}</em>
+        {{/each}}
+      </span>
+    </div>
+  </div>
+</div>
+{% endif %}
