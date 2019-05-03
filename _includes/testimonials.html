@@ -3,20 +3,22 @@
     <h3>Client Testimonials</h3>
   </div>
   <div class="col-sm-6">
+    {{#page.testimonial_1}}
     <div class="testimonials-v4 md-margin-bottom-50">
       <div class="testimonials-v4-in">
-        <p>{{ page.testimonial_1_quote }}</p>
+        <p>{{ quote }}</p>
       </div>
-      {% if page.testimonial_1_icon == "woman" %}
+      {% if icon == "woman" %}
       <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
       {% else %}
       <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
       {% endif %}
       <span class="testimonials-author">
-        {{ page.testimonial_1_name }}<br>
-        <em>{{ page.testimonial_1_profession }}</em>
+        {{ name }}<br>
+        <em>{{ profession }}</em>
       </span>
     </div>
+    {{/page.testimonial_1}}
   </div>
   <div class="col-sm-6">
     <div class="testimonials-v4">
