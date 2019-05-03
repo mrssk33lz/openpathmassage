@@ -3,15 +3,14 @@ layout: default
 page_name: testimonials
 permalink: /testimonials/
 ---
-<!--=== Breadcrumbs v3 ===-->
-<div class="breadcrumbs-v3 img-v1">
-  <div class="page-heading">
-    <div class="container text-center">
-      <h1>Testimonials</h1>
-    </div><!--/end container-->
-  </div>
+<!--=== Page Heading ===-->
+<div class="page-heading img-v1">
+  <div class="container text-center">
+    <h1>Testimonials</h1>
+  </div><!--/end container-->
 </div>
-<!--=== End Breadcrumbs v3 ===-->
+<!--=== End Page Heading ===-->
+{% include breadcrumbs.html %}
 <div class="bg-color-light-2">
   <div class="container content-md">
     <div class="row">

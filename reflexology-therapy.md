@@ -3,17 +3,14 @@ layout: default
 page_name: reflexology-therapy
 permalink: /reflexology-therapy/
 ---
-
-<!--=== Breadcrumbs v3 ===-->
-<div class="breadcrumbs-v3 img-v1">
-  <div class="page-heading">
-    <div class="container text-center">
-      <h1>Reflexology Therapy Services</h1>
-    </div><!--/end container-->
-  </div>
+<!--=== Page Heading ===-->
+<div class="page-heading img-v1">
+  <div class="container text-center">
+    <h1>Reflexology Therapy Services</h1>
+  </div><!--/end container-->
 </div>
-<!--=== End Breadcrumbs v3 ===-->
-
+<!--=== End Page Heading ===-->
+{% include breadcrumbs.html %}
 <!--=== Profile ===-->
 <div class="container content profile">
   <div class="row">

@@ -6,12 +6,12 @@ permalink: /chair-massage/
 
 <!--=== Page Heading ===-->
 <div class="page-heading img-v1">
-    <div class="container text-center">
-      <h1>Chair Massage Therapy Services</h1>
-    </div><!--/end container-->
+  <div class="container text-center">
+    <h1>Chair Massage Therapy Services</h1>
+  </div><!--/end container-->
 </div>
 <!--=== End Page Heading ===-->
-
+{% include breadcrumbs.html %}
 <!--=== Profile ===-->
 <div class="container content profile">
   <div class="row">

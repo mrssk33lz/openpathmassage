@@ -3,14 +3,14 @@ layout: default
 page_name: about
 permalink: /about/
 ---
-
-<!--=== Breadcrumbs v3 ===-->
-<div class="breadcrumbs-v3 img-v1">
+<!--=== Page Heading ===-->
+<div class="page-heading img-v1">
   <div class="container text-center">
     <h1>About Open Path Massage</h1>
   </div><!--/end container-->
 </div>
-<!--=== End Breadcrumbs v3 ===-->
+<!--=== End Page Heading ===-->
+{% include breadcrumbs.html %}
 <div class="container-fluid">
   <div class="row team-v7 no-gutter equal-height-columns">
     <div class="col-md-6 team-arrow-right">

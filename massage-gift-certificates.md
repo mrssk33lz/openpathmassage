@@ -4,17 +4,15 @@ page_name: massage-gift-certificates
 permalink: /gift-certificates
 ---
 
-<!--=== Breadcrumbs v3 ===-->
-<div class="breadcrumbs-v3 img-v1">
-  <div class="page-heading">
+<!--=== Page Heading ===-->
+<div class="page-heading img-v1">
     <div class="container text-center">
       <h1>Massage Gift Certificates</h1>
       <p>Order a massage gift certificate for family, friends, or coworkers to be redeemed at their convenience.</p>
     </div><!--/end container-->
-  </div>
 </div>
-<!--=== End Breadcrumbs v3 ===-->
-
+<!--=== End Page Heading ===-->
+{% include breadcrumbs.html %}
 <!--=== Profile ===-->
 <div class="container content profile">
   <div class="row">
