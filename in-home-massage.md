@@ -14,7 +14,7 @@ permalink: /in-home-massage
   </div>
 </div>
 <!--=== End Breadcrumbs v3 ===-->
-
+{% include breadcrumbs.html %}
 <!--=== Profile ===-->
 <div class="container content profile">
   <div class="row">

@@ -19,7 +19,6 @@ slider:
 {% if page.slider %}
   {% include slider.html height="33" unit="%" transition="slide" duration="8" %}
 {% endif %}
-{% include breadcrumbs.html %}
 <div class="call-action-v1 bg-color-light">
   <div class="container">
     <div class="call-action-v1-box">
