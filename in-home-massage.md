@@ -2,8 +2,8 @@
 layout: default
 page_name: in-home-massage
 permalink: /in-home-massage
-heading_title: In-Home Masssage Services
-heading_description: Open Path Massage provides professional massage therapy services in the convenience of your own home.
+heading: In-Home Masssage Services
+description: Open Path Massage provides professional massage therapy services in the convenience of your own home.
 ---
 {% include page-heading.html %}
 
