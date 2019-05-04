@@ -3,6 +3,7 @@ title: Massage Therapy Packages
 heading: Massage Therapy Packages
 description: Buy a massage package and save!
 page_name: massage-packages
+permalink: /massage-packages
 ---
 
 {% include page-heading.html %}

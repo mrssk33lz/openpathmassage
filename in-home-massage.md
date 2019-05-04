@@ -3,6 +3,7 @@ title: In-Home Massage Therapy
 heading: In-Home Masssage Therapy Services
 description: Open Path Massage provides professional massage therapy services in the convenience of your own home.
 page_name: in-home-massage
+permalink: /in-home-massage
 testimonial_1:
   name: John Smith
   quote: Nice work

@@ -3,6 +3,7 @@ title: Massage Parties
 heading: Massage Parties
 description: Book a Massage Party or add chair massage to your next event!
 page_name: massage-parties
+permalink: /massage-parties
 ---
 
 {% include page-heading.html %}

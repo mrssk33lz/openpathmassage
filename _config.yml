@@ -193,4 +193,3 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      permalink: "/{{ page.page_name}}"

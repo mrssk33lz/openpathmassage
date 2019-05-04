@@ -3,6 +3,7 @@ title: Sports & Athletic Massage Therapy Services
 heading: Sports & Athletic Massage Therapy Services
 description: Relax your muscles before or after a big event, or setup a schedule to maximize the benefits!
 page_name: sports-massage
+permalink: /sports-massage
 ---
 
 {% include page-heading.html %}

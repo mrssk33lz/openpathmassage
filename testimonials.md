@@ -3,6 +3,7 @@ title: Massage Client Testimonials
 heading: Massage Client Testimonials
 description: See what our clients are saying about our massage services.
 page_name: testimonials
+permalink: /testimonials
 ---
 
 {% include page-heading.html %}

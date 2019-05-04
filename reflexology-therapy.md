@@ -3,6 +3,7 @@ title: Reflexology Therapy Services
 heading: Reflexology Therapy Services
 description: Need Content!
 page_name: reflexology-therapy
+permalink: /reflexology-therapy
 ---
 
 {% include page-heading.html %}
