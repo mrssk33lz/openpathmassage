@@ -1,9 +1,8 @@
 ---
-title: In-Home Massage Therapy in Pottstown and the Philadelphia area
-page_name: in-home-massage
-permalink: /in-home-massage
-heading: In-Home Masssage Services
+title: In-Home Massage Therapy
+heading: In-Home Masssage Therapy Services
 description: Open Path Massage provides professional massage therapy services in the convenience of your own home.
+page_name: in-home-massage
 testimonial_1:
   name: John Smith
   quote: Nice work
@@ -23,8 +22,8 @@ testimonial_2:
 <div class="container content profile">
   <div class="row">
     <!--Left Sidebar-->
-    <div class="col-md-3 md-margin-bottom-40">
-      <ul class="list-group sidebar-nav-v1 margin-bottom-40" id="sidebar-nav-1">
+    <div class="col-md-3">
+      <ul class="list-group sidebar-nav-v1" id="sidebar-nav-1">
         <li class="list-group-item">
           <a class="collapse-link" data-toggle="collapse" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Pricing</a>
         </li>

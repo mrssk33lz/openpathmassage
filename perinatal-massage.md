@@ -1,8 +1,8 @@
 ---
-page_name: perinatal-massage
-permalink: /perinatal-massage
+title: Perinatal Massage Services
 heading: Perinatal Massage Services
 description: Relieve your body of the tensions of pregnancy with Perinatal massage therapy.
+page_name: perinatal-massage
 testimonial_1:
   name: John Smith
   quote: Nice work
@@ -22,8 +22,8 @@ testimonial_2:
 <div class="container content profile">
   <div class="row">
     <!--Left Sidebar-->
-    <div class="col-md-3 md-margin-bottom-40">
-      <ul class="list-group sidebar-nav-v1 margin-bottom-40" id="sidebar-nav-1">
+    <div class="col-md-3">
+      <ul class="list-group sidebar-nav-v1" id="sidebar-nav-1">
         <li class="list-group-item">
           <a class="collapse-link" data-toggle="collapse" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Pricing</a>
         </li>
@@ -37,7 +37,7 @@ testimonial_2:
           <div class="row">
             <div class="col-md-12">   
               <div class="collapse in" id="collapseZero">
-                <h2>In-Home Table Massage</h2>
+                <h2>Perinatal Massage Prices</h2>
                 <hr>
                 <p>Currently I offer Perinatal Massage sessions for expecting mothers to ease the stresses of pregnancy.</p>
                 <ul>

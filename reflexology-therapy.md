@@ -1,21 +1,19 @@
 ---
+title: Reflexology Therapy Services
+heading: Reflexology Therapy Services
+description: Need Content!
 page_name: reflexology-therapy
-permalink: /reflexology-therapy/
 ---
-<!--=== Page Heading ===-->
-<div class="page-heading img-v1">
-  <div class="container text-center">
-    <h1>Reflexology Therapy Services</h1>
-  </div><!--/end container-->
-</div>
-<!--=== End Page Heading ===-->
+
+{% include page-heading.html %}
 {% include breadcrumbs.html %}
+
 <!--=== Profile ===-->
 <div class="container content profile">
   <div class="row">
     <!--Left Sidebar-->
-    <div class="col-md-3 md-margin-bottom-40">
-      <ul class="list-group sidebar-nav-v1 margin-bottom-40" id="sidebar-nav-1">
+    <div class="col-md-3">
+      <ul class="list-group sidebar-nav-v1" id="sidebar-nav-1">
         <li class="list-group-item">
           <a class="collapse-link" data-toggle="collapse" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Pricing</a>
         </li>
@@ -53,8 +51,9 @@ permalink: /reflexology-therapy/
     </div>
     <!-- End Profile Content -->
   </div><!--/end row-->
-  <div class="row">
+  <div class="row clear">
     <p>Currently I offer Reflexology Therapy sessions with affordable rates while bringing a sense of relaxation and calm to your home.</p>
   </div>
+  {% include testimonials.html %}
 </div>
 <!--=== End Profile ===-->

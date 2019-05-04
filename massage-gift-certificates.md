@@ -1,17 +1,14 @@
 ---
+title: Massage Gift Certificates
+heading: Massage Gift Certificates
+description: Give the gift of massage to friends, family, or coworkers
 page_name: massage-gift-certificates
 permalink: /gift-certificates
 ---
 
-<!--=== Page Heading ===-->
-<div class="page-heading img-v1">
-    <div class="container text-center">
-      <h1>Massage Gift Certificates</h1>
-      <p>Order a massage gift certificate for family, friends, or coworkers to be redeemed at their convenience.</p>
-    </div><!--/end container-->
-</div>
-<!--=== End Page Heading ===-->
+{% include page-heading.html %}
 {% include breadcrumbs.html %}
+
 <!--=== Profile ===-->
 <div class="container content profile">
   <div class="row">
@@ -40,5 +37,6 @@ permalink: /gift-certificates
       </div>
     </div>
   </div>
+  {% include testimonials.html %}
 </div>
 <!--=== End Profile ===-->

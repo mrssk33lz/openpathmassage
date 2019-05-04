@@ -1,15 +1,13 @@
 ---
+title: Massage Client Testimonials
+heading: Massage Client Testimonials
+description: See what our clients are saying about our massage services.
 page_name: testimonials
-permalink: /testimonials/
 ---
-<!--=== Page Heading ===-->
-<div class="page-heading img-v1">
-  <div class="container text-center">
-    <h1>Testimonials</h1>
-  </div><!--/end container-->
-</div>
-<!--=== End Page Heading ===-->
+
+{% include page-heading.html %}
 {% include breadcrumbs.html %}
+
 <div class="bg-color-light-2">
   <div class="container content-md">
     <div class="row">
@@ -18,7 +16,7 @@ permalink: /testimonials/
           <div class="testimonials-v4-in">
             <p>Erica is a great massage therapist!</p>
           </div>
-          <img class="rounded-x" src="assets/img/testimonials/img5.jpg" alt="thumb">
+          <img class="rounded-x" src="/assets/images/testimonials/man.png" alt="thumb">
           <span class="testimonials-author">
             Client 1<br>
             <em>Client 1 Occupation</em>
@@ -30,7 +28,7 @@ permalink: /testimonials/
           <div class="testimonials-v4-in">
             <p>We like Erica's work so much we got a table for the house.</p>
           </div>
-          <img class="rounded-x" src="assets/img/testimonials/img4.jpg" alt="thumb">
+          <img class="rounded-x" src="/assets/images/testimonials/woman.png" alt="thumb">
           <span class="testimonials-author">
             Client 2<br>
             <em>Client 2 Occupation</em>

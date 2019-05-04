@@ -1,4 +1,5 @@
 ---
+title: In-Home Massage Therapy in Pottstown and the Philadelphia area
 page_name: home
 permalink: /
 slider_cache: false

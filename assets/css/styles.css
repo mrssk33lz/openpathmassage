@@ -2210,8 +2210,8 @@ img.image-md {
 }
 
 .content {
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 1.5em;
+	padding-bottom: 2.5em;
 }
 
 .content-sm {
@@ -3255,6 +3255,10 @@ img.img-center,
 
 .service-box-v1 ul {
   padding: 0 40px;
+}
+
+ul.list-group.sidebar-nav-v1 {
+	margin-bottom: 0;
 }
 
 .service-box-v1 li {
@@ -21838,7 +21842,7 @@ you can use the generic selector below, but it's slower:
 
 
 .row.clear{
-	margin-top: 1em;
+	margin-top: 2.5em;
 }
 
  @media (min-width : 320px) { img.facility{width: 100%;} }
