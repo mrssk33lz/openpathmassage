@@ -1,7 +1,7 @@
 ---
 layout: default
 page_name: about
-permalink: /about/
+permalink: /about
 ---
 <!--=== Page Heading ===-->
 <div class="page-heading img-v1">
