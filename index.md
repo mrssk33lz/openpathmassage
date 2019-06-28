@@ -161,7 +161,7 @@ slider:
           <div class="overflow-hidden">
             <img class="img-responsive" src="/assets/images/thumbnails/gift-certificates.jpg" alt="Massage Gift Certificates">
           </div>
-          <a class="btn-more hover-effect" href="/massage-gift-certifcates">read more +</a>
+          <a class="btn-more hover-effect" href="/gift-certifcates">read more +</a>
         </div>
         <div class="caption">
           <h3><a class="hover-effect" href="/massage-gift-certifcates">Massage Gift Certificates</a></h3>
