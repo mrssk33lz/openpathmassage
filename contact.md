@@ -1,6 +1,6 @@
 ---
 page_name: contact
-permalink: /contact/
+permalink: /contact
 ---
 
 {% include breadcrumbs.html %}
