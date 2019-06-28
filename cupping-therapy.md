@@ -4,7 +4,7 @@ heading: Cupping Therapy Services
 description: Test
 meta_description: This is a test.
 page_name: cupping-therapy
-permalink: /cupping-therapy/
+permalink: /cupping-therapy
 testimonial_1:
   name: John Smith
   quote: Nice work
