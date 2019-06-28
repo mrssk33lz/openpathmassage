@@ -3,6 +3,7 @@ title: Perinatal Massage Services
 heading: Perinatal Massage Services
 description: Relieve your body of the tensions of pregnancy with Perinatal massage therapy.
 page_name: perinatal-massage
+permalink: /perinatal-massage
 testimonial_1:
   name: John Smith
   quote: Nice work
