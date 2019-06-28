@@ -1,6 +1,6 @@
 ---
 page_name: chair-massage
-permalink: /chair-massage/
+permalink: /chair-massage
 ---
 
 {% include page-heading.html %}
