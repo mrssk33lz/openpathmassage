@@ -1,5 +1,6 @@
 ---
 title: Chair Massage Services
+heading: Chair Massage Services
 page_name: chair-massage
 permalink: /chair-massage
 ---
@@ -28,8 +29,6 @@ permalink: /chair-massage
               <div class="collapse in" id="collapseZero">
                 <h2>Chair Massage Pricing</h2>
                 <hr>
-                <p>Employee Benefits of Chair Massage can range from stress relief & relaxation to energizing & uplifting. Recent studies have shown that bringing chair massage to the office allow the employees to have higher energy, better immunity, lowered stress, and increased productivity. Each Therapist can cover approximately 5 employees per hour with each person receiving a 10 minute chair massage. The hourly rate is based on the employee count, whether a 2nd or 3rd Therapist is needed, and the company budget.</p> 
-                <p>Sporting events, community wellness fairs, and community outreach events can all benefit greatly from having pre and post event massage. Complimentary massage is offered to those who would like an introduction to massage therapy, energize athletes and prepare them for their event, or sooth their muscles post event reducing delayed onset pain.</p>
                 <ul>
                   <li>$70 for 60 Minutes</li>
                   <li><$90 for 90 Minutes</li>
@@ -53,6 +52,10 @@ permalink: /chair-massage
     </div>
     <!-- End Profile Content -->
   </div><!--/end row-->
+  <div class="row clear">
+    <p>Employee Benefits of Chair Massage can range from stress relief & relaxation to energizing & uplifting. Recent studies have shown that bringing chair massage to the office allow the employees to have higher energy, better immunity, lowered stress, and increased productivity. Each Therapist can cover approximately 5 employees per hour with each person receiving a 10 minute chair massage. The hourly rate is based on the employee count, whether a 2nd or 3rd Therapist is needed, and the company budget.</p> 
+    <p>Sporting events, community wellness fairs, and community outreach events can all benefit greatly from having pre and post event massage. Complimentary massage is offered to those who would like an introduction to massage therapy, energize athletes and prepare them for their event, or sooth their muscles post event reducing delayed onset pain.</p>
+  </div>
   {% include testimonials.html %}
 </div>
 <!--=== End Profile ===-->
