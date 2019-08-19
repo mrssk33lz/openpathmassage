@@ -12,50 +12,53 @@ permalink: /massage-parties
 <!--=== Profile ===-->
 <div class="container content profile">
   <div class="row">
-    <!--Left Sidebar-->
-    <div class="col-md-3">
-      <ul class="list-group sidebar-nav-v1" id="sidebar-nav-1">
-        <li class="list-group-item">
-          <a class="collapse-link" data-toggle="collapse" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Pricing</a>
-        </li>
-      </ul>
-    </div>
-    <!--End Left Sidebar-->
-    <!-- Profile Content -->
-    <div class="col-md-9">
-      <div class="profile-body">
-        <div class="profile-bio">
-          <div class="row">
-            <div class="col-md-12">   
-              <div class="collapse in" id="collapseZero">
-                <h2>Massage Party Rates</h2>
-                <hr>
-                <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
-                </ul>
-              </div>
-              <div class="collapse" id="collapseOne">
-                <h2>Massage Party Rates</h2>
-                <hr>
-                <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div><!--/end row-->
+    <div class="col-md-4">
+      <div class="thumbnails thumbnail-style thumbnail-kenburn">
+        <div class="caption">
+          <h3><a class="hover-effect" href="#">Massage Party</a></h3>
+          <ul>
+            <li>Great for parties of around 10-12 people.</li>
+            <li>Chair Massages are $1/minute per guest.</li>
+            <li>Suggested 10-30 mins max per guest to allow time for all guests.</li>
+            <li><em>The Chair Massage Party Host receives a complimentary 10 minute chair massage for booking the party!</em></li>
+          </ul>
+        </div>
       </div>
     </div>
-    <!-- End Profile Content -->
-  </div><!--/end row-->
+    <div class="col-md-4">
+      <div class="thumbnails thumbnail-style thumbnail-kenburn">
+        <div class="caption">
+          <h3><a class="hover-effect" href="#">Wedding Party</a></h3>
+          <ul>
+            <li>Chair massage can include the Bridal party and Grooms party on the day of the wedding.</li>
+            <li>Reduce stress and tension for the big day and feel relaxed for your wedding!</li>
+            <li>Parties of up to 10 will include 2 therapists. We can provide chair massages for only up to 20 people total.</li>
+            <li>A special Massage Spa Day prior to or after the the wedding festivities can also be arranged larger Wedding Parties. 
+          </ul>
+          <p>$ 70 per Hour for each Massage Therapist. Price includes travel in the Philadelphia area. Please Contact Me for further details if travel exceeds PA.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnails thumbnail-style thumbnail-kenburn">
+        <div class="caption">
+          <h3><a class="hover-effect" href="#">Ladies Night In Party</a></h3>
+          <ul>
+            <li>Have a Massage party to melt the stress away.</li>
+            <li>Leave the kids at home, enjoy some time for yourself and your best friends to relax and refresh.</li>
+            <li>Great for parties of 10-12 ladies/guests.</li>
+            <li>Chair massages are $1/minute per guest.</li>
+            <li>Suggested 10-30 mins max per guest to allow time for all guests.</li>
+          </ul>
+          <p>Planning a ladies night out soon? Switch it up with a ladies not in massage party! Get together with your friends at the house with some relaxing chair massage.</p>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="row clear">
-    <p>Currently I offer In-Home Massage sessions with affordable rates while bringing a sense of relaxation and calm to your home. It's so very important for me to offer modalities that can help your body heal, or relax and refresh the body from a stressful week or busy weekend. I have a diverse range of techniques to help soothe sore muscles, incorporate stretches to improve your range of motion and de-stress your mind and wellbeing. Life can be stressful for everyone on a daily basis and I want to bring massage to you so that it's beneficial, affordable and effective. Man or Woman, massage can be for anyone such as those who work on computers, stand all day jobs and have tired feet, or manual laborers with low back issues and hip problems. See my Benefits page for more information.</p>
-    <p>Please feel free to Contact Me for more information on what massage can help you, or to schedule a Massage with me in your home. I can travel within the southern Berks, southern Montgomery and most of Chester Counties. I provide music, aromatherapy, the table, linens and lotion/oil. I only need a room or space to allow for the table and myself to work around you.</p>
-    <p>A regular commitment of a frequent massage will help to alleviate Knots, Trigger Points, Piriformis Syndrome, Sciatic Nerve Impingement, or Thoracic Outlet Syndrome. Sedentary careers can create problems such as forearm and carpel tunnel issues, tight hamstrings and quads, stiff neck and limited range of motion, mid and low back discomfort due to poor office chair use/equipment, and stressful long commutes. With massage these conditions can be resolved or managed so you can feel relief. Physically active careers also come with there share of pain and discomfort and greater risk for injury if work is not performed properly. In this economy Massage is essential for a better wellbeing and I want to make sure I can help no matter what your budget is. Please Contact Me for more pricing details specific to your needs.</p>
+    <p>I offer Massage Parties for those who love massages, or those who are new to massage and would like a way to be introduced in a way that is comfortable, affordable and relaxing. I also bring my massage chair to your event whether a Wedding Party Day, Ladies Night In, Corporate In Office Visits, or gatherings such as an Open House for your place of business.</p>
+    <p>In home Massage Parties can range from 6-10 people per massage therapist, offering relaxation and energizing massage.</p>
+    <p>I have a small team of Massage Therapists also available for larger parties of 15 people and more. It is recommended to have a free room available to setup my chair, which is much smaller than setting up my massage table. Massage table parties available upon request!</p>
   </div>
   {% include testimonials.html %}
 </div>

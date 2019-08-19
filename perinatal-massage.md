@@ -35,6 +35,7 @@ permalink: /perinatal-massage
                   <li>$70 for 60 Minutes</li>
                   <li><$90 for 90 Minutes</li>
                   <li>$120 for 120 minutes</li>
+                  <li><em>Package pricing is available.</em></li>
                 </ul>
               </div>
               <div class="collapse" id="collapseOne">
@@ -45,6 +46,7 @@ permalink: /perinatal-massage
                   <li>$70 for 60 Minutes</li>
                   <li><$90 for 90 Minutes</li>
                   <li>$120 for 120 minutes</li>
+                  <li><em>Package pricing is available.</em></li>
                 </ul>
               </div>
             </div>
@@ -54,6 +56,9 @@ permalink: /perinatal-massage
     </div>
     <!-- End Profile Content -->
   </div><!--/end row-->
+  <div class="row clear">
+    <p>Perinatal Massage is similar to a massage during non-pregnancy in terms of the goals (relaxation, pain relief, increased circulation & mobility, etc.). However, due to the changes that can occur during pregnancy, modifications and accommodations are made. Special pillows, positioning and techniques are utilized to ensure comfort for both you and baby. With the many changes associated with pregnancy, perinatal massage can be a wonderful way to support you during this transitional and sacred time. The intention of the massage is to create length and space in the body, as well as provide a sense of overall wellbeing. A few common benefits from receiving massage that people express are less low back/sciatica pain and carpal tunnel symptoms, overall better sleep and emotional benefits of feeling a strong connection to their bodies and growing babies.</p>
+  </div>
   {% include testimonials.html %}
 </div>
 <!--=== End Profile ===-->
