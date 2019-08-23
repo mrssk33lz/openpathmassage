@@ -1,5 +1,5 @@
 ---
-title: About the Massage Therapist
+title: About Your Massage Therapist
 layout: default
 page_name: about
 permalink: /about
