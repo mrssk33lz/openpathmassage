@@ -164,7 +164,7 @@ slider:
           <a class="btn-more hover-effect" href="/gift-certifcates">read more +</a>
         </div>
         <div class="caption">
-          <h3><a class="hover-effect" href="/massage-gift-certifcates">Massage Gift Certificates</a></h3>
+          <h3><a class="hover-effect" href="/gift-certifcates">Massage Gift Certificates</a></h3>
           <p>Buy a massage for friends, family, or a coworker for a gift with a gift certificate.</p>
         </div>
       </div>
