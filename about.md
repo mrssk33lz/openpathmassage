@@ -12,7 +12,7 @@ permalink: /about
 </div>
 <!--=== End Page Heading ===-->
 {% include breadcrumbs.html %}
-<div class="container content">
+<div class="container-fluid">
   <div class="row team-v7 no-gutter equal-height-columns">
     <div class="col-md-6 team-arrow-right">
       <div class="dp-table">
