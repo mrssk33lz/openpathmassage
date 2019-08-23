@@ -1,7 +1,7 @@
 ---
 title: Reflexology Therapy Services
 heading: Reflexology Therapy Services
-description: Need Content!
+description: Stimulate reflex areas to increase the flow of energy around your body.
 page_name: reflexology-therapy
 permalink: /reflexology-therapy
 ---
@@ -53,7 +53,7 @@ permalink: /reflexology-therapy
     <!-- End Profile Content -->
   </div><!--/end row-->
   <div class="row clear">
-    <p>Currently I offer Reflexology Therapy sessions with affordable rates while bringing a sense of relaxation and calm to your home.</p>
+    <p>Reflexology works to unblock energy channels and increase blood flow by stimulating reflex areas of the feet that correspond to organs, glands and parts of the body. Currently I offer Reflexology Therapy sessions with affordable rates while bringing a sense of relaxation and calm to your home.</p>
   </div>
   {% include testimonials.html %}
 </div>

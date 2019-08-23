@@ -1,7 +1,7 @@
 ---
 title: Cupping Therapy Services
 heading: Cupping Therapy Services
-description: Test
+description: Increase blood circulation, reduce muscle pain, and muscle tightness through cupping therapy.
 meta_description: This is a test.
 page_name: cupping-therapy
 permalink: /cupping-therapy
@@ -55,6 +55,7 @@ permalink: /cupping-therapy
   </div><!--/end row-->
   <div class="row clear">
     <p>I am always expanding my skills and modalities through continuing education classes each year. I became certified in Cupping Therapy in 2017 and have since started proving In-Home Cupping Therapy in sessions to my clients.</p>
+    <p>Therapeutic cupping helps remove stagnation and toxins to reduce muscle pain, alleviate tightness, and induces better blood circulation with suction and slide cups.</p>
   </div>
   {% include testimonials.html %}
 </div>

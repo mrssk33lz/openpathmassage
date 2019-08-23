@@ -15,24 +15,39 @@ permalink: /massage-packages
     <div class="col-md-4">
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="caption">
-          <h3><a class="hover-effect" href="#">Massage Starter Package</a></h3>
-          <p>Get started with a package of 5 massages able to be redeemed within 1 year.</p>
+          <h3><a class="hover-effect" href="#">1hr Massage Package</a></h3>
+          <p>Purchase a package of 6 massages for 1 hour each session able to be redeemed within 1 year.</p>
+          <ul>
+            <li>6 - 1 hour sessions.</li>
+            <li>Redeem your 6 sessions at your convenience.</li>
+            <li>Package Cost: $360 ($10 off per session)</li>
+          </ul>
         </div>
       </div>
     </div>
     <div class="col-md-4">
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="caption">
-          <h3><a class="hover-effect" href="#">Massage Basic Package</a></h3>
-          <p>Setup a weekly massage package good for a set amount of massages and save on every 5 massages!</p>
+          <h3><a class="hover-effect" href="#">1.5hr Massage Package</a></h3>
+          <p>Purchase a package of 6 massages for 1.5 hours each session able to be redeemed within 1 year.</p>
+          <ul>
+            <li>6 - 1.5 hour sessions.</li>
+            <li>Redeem your 6 sessions at your convenience.</li>
+            <li>Package Cost: $400 ($10 off per session)</li>
+          </ul>
         </div>
       </div>
     </div>
     <div class="col-md-4">
       <div class="thumbnails thumbnail-style thumbnail-kenburn">
         <div class="caption">
-          <h3><a class="hover-effect" href="#">Massage Mega Package</a></h3>
-          <p>Setup a bi-weekly massage package good for a set amount of massages and save on every month booked!</p>
+          <h3><a class="hover-effect" href="#">Cupping Massage Package</a></h3>
+          <p>Purchase a package of 6 cupping sessions for 1 hour each session able to be redeemed within 1 year.</p>
+          <ul>
+            <li>6 - 1 hour sessions.</li>
+            <li>Redeem your 6 sessions at your convenience.</li>
+            <li>Package Cost: $360 ($10 off per session)</li>
+          </ul>
         </div>
       </div>
     </div>
