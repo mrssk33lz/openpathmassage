@@ -2,7 +2,7 @@
 title: Massage Gift Certificates
 heading: Massage Gift Certificates
 description: Give the gift of massage to friends, family, or coworkers
-page_name: massage-gift-certificates
+page_name: gift-certificates
 permalink: /gift-certificates
 ---
 

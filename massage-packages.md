@@ -1,7 +1,7 @@
 ---
 title: Massage Therapy Packages
 heading: Massage Therapy Packages
-description: Buy a massage package and save!
+description: Buy a massage package and save on booking multiple massage sessions!
 page_name: massage-packages
 permalink: /massage-packages
 ---

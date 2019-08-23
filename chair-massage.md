@@ -1,7 +1,7 @@
 ---
 title: Chair Massage Services
 heading: Chair Massage Services
-description: Enjoy the benefits of massage without the need for private space or a table.
+description: Enjoy the benefits of massage without the need for private space or a massage table with chair massage.
 page_name: chair-massage
 permalink: /chair-massage
 ---
