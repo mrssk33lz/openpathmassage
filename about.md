@@ -35,7 +35,7 @@ permalink: /about
       </div>
     </div>
     <div class="col-md-6 team-v7-img">
-      <img class="img-responsive full-width" src="/assets/images/erica-headshot.jpg" alt="Erica Moore, LMT">
+      <img class="img-responsive" src="/assets/images/erica-headshot.jpg" alt="Erica Moore, LMT">
     </div>
   </div>
 </div>
