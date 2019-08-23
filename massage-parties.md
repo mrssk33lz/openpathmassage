@@ -33,7 +33,7 @@ permalink: /massage-parties
             <li>Chair massage can include the Bridal party and Grooms party on the day of the wedding.</li>
             <li>Reduce stress and tension for the big day and feel relaxed for your wedding!</li>
             <li>Parties of up to 10 will include 2 therapists. We can provide chair massages for only up to 20 people total.</li>
-            <li>A special Massage Spa Day prior to or after the the wedding festivities can also be arranged larger Wedding Parties. 
+            <li>A special Massage Spa Day prior to or after the the wedding festivities can also be arranged larger Wedding Parties.</li>
           </ul>
           <p>$ 70 per Hour for each Massage Therapist. Price includes travel in the Philadelphia area. Please Contact Me for further details if travel exceeds PA.</p>
         </div>
