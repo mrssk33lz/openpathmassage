@@ -1,7 +1,7 @@
 ---
 title: Cupping Therapy Services
 heading: Cupping Therapy Services
-description: Increase blood circulation, reduce muscle pain, and muscle tightness through cupping therapy.
+description: Increase blood circulation, reduce muscle pain, and relieve muscle tightness through cupping therapy.
 meta_description: This is a test.
 page_name: cupping-therapy
 permalink: /cupping-therapy
