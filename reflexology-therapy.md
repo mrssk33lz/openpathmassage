@@ -4,6 +4,9 @@ heading: Reflexology Therapy Services
 description: Stimulate reflex areas to increase the flow of energy around your body.
 page_name: reflexology-therapy
 permalink: /reflexology-therapy
+heading_link: "/contact"
+heading_link_text: "Book a Reflexology Session"
+heading_link_color: purple
 ---
 
 {% include page-heading.html %}

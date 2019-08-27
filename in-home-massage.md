@@ -1,19 +1,12 @@
 ---
 title: In-Home Massage Therapy
 heading: In-Home Masssage Therapy Services
+heading_link: "/contact"
+heading_link_text: "Book an In-Home Massage Session"
+heading_link_color: purple
 description: Open Path Massage provides professional massage therapy services in the convenience of your own home.
 page_name: in-home-massage
 permalink: /in-home-massage
-testimonial_1:
-  name: John Smith
-  quote: Nice work
-  profession: Blacksmith
-  icon: man
-testimonial_2:
-  name: Test 2
-  quote: Testing 123
-  profession: Tester
-  icon: woman
 ---
 
 {% include page-heading.html %}

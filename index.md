@@ -10,7 +10,7 @@ slider:
     - image: /assets/images/reflexology-therapy.jpg
       slide_html: <h3>Reflexology Therapy Services</h3><p>Experience pain relief and relaxation from the ancient technique of Reflexology Therapy.</p><p><a href="/reflexology-therapy" class="btn-u btn-purple">Learn More</a></p>
     - image: /assets/images/cupping-therapy.jpg
-      slide_html: <h3>Cupping Therapy Services</h3>
+      slide_html: <h3>Cupping Therapy Services</h3><p>Reduce inflammation and tension in your muscles with Cupping Therapy.</p><p><a href="/cupping-therapy" class="btn-u btn-purple">Learn More</a></p>
     - image: /assets/images/massage-packages-2.jpg
       slide_html: <h3>Massage Packages</h3><p>Treat your wallet to a massage! Purchase a massage package to lock in savings on massages good for 1 year.</p><p><a href="/massage-packages" class="btn-u btn-purple">Learn More</a></p>
     - image: /assets/images/massage-parties.jpg

@@ -4,6 +4,9 @@ heading: Massage Parties
 description: Book a Massage Party or add chair massage to your next event!
 page_name: massage-parties
 permalink: /massage-parties
+heading_link: "/contact"
+heading_link_text: "Book a Massage Party"
+heading_link_color: purple
 ---
 
 {% include page-heading.html %}
@@ -22,6 +25,7 @@ permalink: /massage-parties
             <li>Suggested 10-30 mins max per guest to allow time for all guests.</li>
             <li><em>The Chair Massage Party Host receives a complimentary 10 minute chair massage for booking the party!</em></li>
           </ul>
+          <a class="btn-u btn-purple" href="/contact">Book a Massage Party</a>
         </div>
       </div>
     </div>
@@ -36,6 +40,7 @@ permalink: /massage-parties
             <li>A special Massage Spa Day prior to or after the the wedding festivities can also be arranged larger Wedding Parties.</li>
           </ul>
           <p>$ 70 per Hour for each Massage Therapist. Price includes travel in the Philadelphia area. Please Contact Me for further details if travel exceeds PA.</p>
+          <a class="btn-u btn-purple" href="/contact">Book a Wedding Massage Party</a>
         </div>
       </div>
     </div>
@@ -51,6 +56,7 @@ permalink: /massage-parties
             <li>Suggested 10-30 mins max per guest to allow time for all guests.</li>
           </ul>
           <p>Planning a ladies night out soon? Switch it up with a ladies not in massage party! Get together with your friends at the house with some relaxing chair massage.</p>
+          <a class="btn-u btn-purple" href="/contact">Book a Ladies Night In Massage Party</a>
         </div>
       </div>
     </div>

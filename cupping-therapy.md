@@ -5,6 +5,9 @@ description: Increase blood circulation, reduce muscle pain, and relieve muscle 
 meta_description: This is a test.
 page_name: cupping-therapy
 permalink: /cupping-therapy
+heading_link: "/contact"
+heading_link_text: "Book a Massage with Cupping Therapy"
+heading_link_color: purple
 ---
 
 {% include page-heading.html %}
@@ -29,21 +32,19 @@ permalink: /cupping-therapy
           <div class="row">
             <div class="col-md-12">   
               <div class="collapse in" id="collapseZero">
-                <h2>Cupping Therapy Rates</h2>
+                <h2>Massage with Cupping Therapy Rates</h2>
                 <hr>
                 <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
+                  <li>$90 for 60 Minutes</li>
+                  <li>$110 for 90 Minutes</li>
                 </ul>
               </div>
               <div class="collapse" id="collapseOne">
-                <h2>Cupping Therapy Rates</h2>
+                <h2>Massage with Cupping Therapy Rates</h2>
                 <hr>
                 <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
+                  <li>$90 for 60 Minutes</li>
+                  <li>$110 for 90 Minutes</li>
                 </ul>
               </div>
             </div>
@@ -54,8 +55,9 @@ permalink: /cupping-therapy
     <!-- End Profile Content -->
   </div><!--/end row-->
   <div class="row clear">
-    <p>I am always expanding my skills and modalities through continuing education classes each year. I became certified in Cupping Therapy in 2017 and have since started proving In-Home Cupping Therapy in sessions to my clients.</p>
+    <p>I am always expanding my skills and modalities through continuing education classes each year. I became certified in Cupping Therapy in 2017. I have since started adding cupping therapy to my in-home massage sessions to my clients for an additional $20 per session.</p>
     <p>Therapeutic cupping helps remove stagnation and toxins to reduce muscle pain, alleviate tightness, and induces better blood circulation with suction and slide cups.</p>
+    <p>Check out my massage packages page for deals on Cupping Therapy.</p>
   </div>
   {% include testimonials.html %}
 </div>

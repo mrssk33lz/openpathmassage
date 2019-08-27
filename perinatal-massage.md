@@ -4,6 +4,9 @@ heading: Perinatal Massage Services
 description: Relieve your body of the tensions of pregnancy with Perinatal massage therapy.
 page_name: perinatal-massage
 permalink: /perinatal-massage
+heading_link: "/contact"
+heading_link_text: "Book a Perinatal Massage Session"
+heading_link_color: purple
 ---
 
 {% include page-heading.html %}

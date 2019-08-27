@@ -4,6 +4,9 @@ heading: Sports & Athletic Massage Therapy Services
 description: Relax your muscles before or after a big event, or setup a schedule to maximize the benefits!
 page_name: sports-massage
 permalink: /sports-massage
+heading_link: "/contact"
+heading_link_text: "Book a Sports Massage for an Event"
+heading_link_color: purple
 ---
 
 {% include page-heading.html %}
