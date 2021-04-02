@@ -6,7 +6,7 @@ slider_cache: false
 slider:
   slides:
     - image: /assets/images/in-home-massage.jpg
-      slide_html: <h3>In-Home Massage Services</h3><p>Get a professional table massage in the comfort of your own home.</p><p><a href="/in-home-massage" class="btn-u btn-purple">Learn More</a></p>
+      slide_html: <h3>In-Home Massage Therapy</h3><p>Get a professional table massage in the comfort of your own home.</p><p><a href="/in-home-massage" class="btn-u btn-purple">Learn More</a></p>
     - image: /assets/images/reflexology-therapy.jpg
       slide_html: <h3>Reflexology Therapy Services</h3><p>Experience pain relief and relaxation from the ancient technique of Reflexology Therapy.</p><p><a href="/reflexology-therapy" class="btn-u btn-purple">Learn More</a></p>
     - image: /assets/images/cupping-therapy.jpg
@@ -35,7 +35,7 @@ slider:
   <div class="margin-bottom-10"></div>
     <div class="row">
       <div class="col-md-12">
-        <h1>Massage Services</h1>
+        <h1>Massage Therapy Services</h1>
       </div>
     </div>
   <div class="row">

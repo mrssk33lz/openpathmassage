@@ -24,7 +24,7 @@ slogan: In-home massage therapy in Pottstown and the tri-county area.
 description: In-Home Massage Therapy in Pottstown and the Philadelphia area.
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://sk33lz.com/" title="sk33lz">a Ninja</a>.</p>'
+credits: '<p>Powered by Jekyll and <a href="https://sk33lz.com/" title="sk33lz">a Ninja</a>.</p>'
 
 # Email address for site.
 email: erica@openpathmassage.com
@@ -40,7 +40,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://sk33lz.github.io/themeroot/images/'
+urlimg: 'https://openpathmassage.netlify.app/assets/images'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
