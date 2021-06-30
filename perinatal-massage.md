@@ -34,20 +34,36 @@ heading_link_color: purple
                 <h2>Perinatal Massage Prices</h2>
                 <hr>
                 <p>Currently I offer Perinatal Massage sessions for expecting mothers to ease the stresses of pregnancy.</p>
+                <h3>Local</h3>
+                <p>Local prices for Pottstown and 15 mile travel distance.</p>
                 <ul>
                   <li>$85 for 60 Minutes</li>
                   <li>$120 for 90 Minutes</li>
                   <li><em>Package pricing is available.</em></li>
+                </ul>
+                <h3>Regional</h3>
+                <p>Regional prices for over 15 mile travel distance.</p>
+                <ul>
+                  <li>$120 for 60 Minutes</li>
+                  <li>$160 for 90 Minutes</li>
                 </ul>
               </div>
               <div class="collapse" id="collapseOne">
                 <h2>In-Home Table Massage</h2>
                 <hr>
                 <p>Currently I offer Perinatal Massage sessions for expecting mothers to ease the stresses of pregnancy.</p>
+                <h3>Local</h3>
+                <p>Local prices for Pottstown and 15 mile travel distance.</p>
                 <ul>
                   <li>$85 for 60 Minutes</li>
                   <li>$120 for 90 Minutes</li>
                   <li><em>Package pricing is available.</em></li>
+                </ul>
+                <h3>Regional</h3>
+                <p>Regional prices for over 15 mile travel distance.</p>
+                <ul>
+                  <li>$120 for 60 Minutes</li>
+                  <li>$160 for 90 Minutes</li>
                 </ul>
               </div>
             </div>
