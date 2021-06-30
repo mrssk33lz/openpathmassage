@@ -35,9 +35,8 @@ heading_link_color: purple
                 <hr>
                 <p>Currently I offer Perinatal Massage sessions for expecting mothers to ease the stresses of pregnancy.</p>
                 <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
+                  <li>$85 for 60 Minutes</li>
+                  <li>$120 for 90 Minutes</li>
                   <li><em>Package pricing is available.</em></li>
                 </ul>
               </div>
@@ -46,9 +45,8 @@ heading_link_color: purple
                 <hr>
                 <p>Currently I offer Perinatal Massage sessions for expecting mothers to ease the stresses of pregnancy.</p>
                 <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
+                  <li>$85 for 60 Minutes</li>
+                  <li>$120 for 90 Minutes</li>
                   <li><em>Package pricing is available.</em></li>
                 </ul>
               </div>

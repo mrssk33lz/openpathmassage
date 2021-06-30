@@ -34,18 +34,18 @@ heading_link_color: purple
                 <h2>Reflexology Therapy Pricing</h2>
                 <hr>
                 <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
+                  <li>$85 for 60 Minutes</li>
+                  <li>$120 for 90 Minutes</li>
+                  <li>$150 for Couples (2 1-hour sessions)</li>
                 </ul>
               </div>
               <div class="collapse" id="collapseOne">
                 <h2>Reflexology Therapy Pricing</h2>
                 <hr>
                 <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
+                  <li>$85 for 60 Minutes</li>
+                  <li>$120 for 90 Minutes</li>
+                  <li>$150 for Couples (2 1-hour sessions)</li>
                 </ul>
               </div>
             </div>

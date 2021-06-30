@@ -1,6 +1,6 @@
 ---
-title: Sports & Athletic Massage Therapy Services
-heading: Sports & Athletic Massage Therapy Services
+title: Sports Massage & Athletic Massage Therapy
+heading: Sports Massage & Athletic Massage Therapy
 description: Relax your muscles before or after a big event, or setup a schedule to maximize the benefits!
 page_name: sports-massage
 permalink: /sports-massage
@@ -34,18 +34,18 @@ heading_link_color: purple
                 <h2>Sports Massage Therapy Pricing</h2>
                 <hr>
                 <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
+                  <li>$85 for 60 Minutes</li>
+                  <li>$120 for 90 Minutes</li>
+                  <li>$150 for 120 Minutes (2 1-hour sessions)</li>
                 </ul>
               </div>
               <div class="collapse" id="collapseOne">
                 <h2>Sports Massage Therapy Pricing</h2>
                 <hr>
                 <ul>
-                  <li>$70 for 60 Minutes</li>
-                  <li><$90 for 90 Minutes</li>
-                  <li>$120 for 120 minutes</li>
+                  <li>$85 for 60 Minutes</li>
+                  <li>$120 for 90 Minutes</li>
+                  <li>$150 for 120 Minutes (2 1-hour sessions)</li>
                 </ul>
               </div>
             </div>
@@ -56,7 +56,7 @@ heading_link_color: purple
     <!-- End Profile Content -->
   </div><!--/end row-->
   <div class="row">
-    <p>Offering sports and athletic massage on-site before, after, or during sporting events and athletic competitions. Myself or a small team of massage therapists will travel to your location to provide relaxing massage for athletes.</p>
+    <p>Open Path Massage offers sports massage therapy and athletics massage therapy before, after, or during sporting events and athletic competitions. Myself or a small team of massage therapists will travel to your event's location or other facilities to provide either table massage or chair massage for athletes.</p>
   </div>
   {% include testimonials.html %}
 </div>
