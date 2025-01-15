@@ -54,8 +54,7 @@ permalink: /in-home-massage
               <div class="collapse in" id="collapseZero">
                 <h2>In-Home Table Massage Pricing</h2>
                 <hr>
-                <h3>Local</h3>
-                <p>Local prices for Pottstown and 15 mile travel distance.</p>
+                <p>Prices for individual and couples table massage in the comfort of your Pottstown home or up to a 15 mile travel distance.</p>
                 <ul>
                   <li>$120 for 60 Minutes</li>
                   <li>$160 for 90 Minutes</li>
