@@ -62,17 +62,6 @@ permalink: /in-home-massage
                   <li>$220 for Couples (2 1-hour sessions)</li>
                 </ul>
               </div>
-              <div class="collapse" id="collapseOne">
-                <h2>In-Home Table Massage Pricing</h2>
-                <hr>
-                <h3>Local</h3>
-                <p>Local prices for Pottstown and 15 mile travel distance.</p>
-                <ul>
-                  <li>$85 for 60 Minutes</li>
-                  <li>$120 for 90 Minutes</li>
-                  <li>$150 for Couples (2 1-hour sessions)</li>
-                </ul>
-              </div>
               <div class="collapse" id="collapseTwo">
                 <h2>Modalities</h2>
                 <hr>
